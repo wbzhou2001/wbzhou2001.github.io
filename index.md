@@ -2,22 +2,18 @@
 layout: homepage
 ---
 
-## About Me
+## Short Bio
 
-I am a Ph.D. student at ...
+My name is Wenbin Zhou (Chinese: 周文斌 [[Pronounciation](https://translate.google.com/?sl=auto&tl=en&text=%E5%91%A8%E6%96%87%E6%96%8C&op=translate)]), I am a Ph.D. student in Information Systems and Management at [Heinz College of Information Systems and Public Policy](https://www.heinz.cmu.edu/) of [Carnegie Mellon University](https://www.cmu.edu/), where I am fortunate to have [Woody Zhu](https://www.andrew.cmu.edu/user/shixianz/) and [Peter Zhang](https://www.andrew.cmu.edu/user/yunz2/) as my advisors. Prior to joining Carnegie Mellon University, I obtained my B.S. in Statistics at [The School of Management](http://en.business.ustc.edu.cn/main.htm) of [University of Science and Technology of China](https://en.ustc.edu.cn/) in 2023. 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+The goal of my research is to construct end-to-end machine learning frameworks that provides data-automated solutions or insights associated with reasonable model explainability to address emerging societal challenges. To this end, I expect my research to reach out to policy makers, decision analysts, and industry researchers.
+
+- **Applications:** Renewable Energy, Healthcare Analytics
+- **Discipline:** Statistical Machine Learning (Trustworthy Machine Learning, Causal Inference, Large-scale Data Analytics), Operations Research (Dynammic Programming, Distributional Robust Optimization)
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
-
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
+- **[August 2023]**  We won the first place in 2023 YinzOR Student Conference Poster Competition. [[Paper](https://arxiv.org/abs/2305.15742)] [[Poster](../files/counterfactualposter.pdf)] [[YinzOR website](https://yinzor.cmuinforms.org/)]
+- **[April 2023]** Joined Carnegie Mellon University's Heinz College as a PhD student. [[My departmental directory](https://www.heinz.cmu.edu/faculty-research/profiles/zhou-wenbin)]
