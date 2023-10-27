@@ -18,7 +18,7 @@ The goal of my research is to construct end-to-end machine learning frameworks t
 <b>[1] [Counterfactual Generative Models for Time-varying Treatments](https://arxiv.org/abs/2305.15742)</b>  
 *Shenghao Wu, **Wenbin Zhou**, Minshuo Chen, and Shixiang Zhu*  
 - <u><b>Spotlight</b>, Deep Generative Models for Health Workshop, NeurIPS 2023</u>   
-- <u><b>First Place</b>, YinzOR Student Conference Poster Competition</u>  
+- <u><b>First Place</b>, Student Conference Poster Competition, YinzOR 2023</u>  
 - <u>Causal Representation Learning Workshop, NeurIPS 2023</u>
 
 ## News
