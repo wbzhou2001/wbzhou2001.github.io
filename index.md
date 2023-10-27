@@ -13,7 +13,13 @@ The goal of my research is to construct end-to-end machine learning frameworks t
 **Applications:** Renewable Energy, Epidemiology, Supply Chain, Transportation System <br>
 **Discipline:** Statistical Machine Learning (Trustworthy Machine Learning, Causal Inference, Large-scale Data Analytics), Operations Research (Dynammic Programming, Distributional Robust Optimization)
 
-## News
+## Publications
+
+1. [Counterfactual Generative Models for Time-varying Treatments](https://arxiv.org/abs/2305.15742)  
+*Shenghao Wu, **Wenbin Zhou**, Minshuo Chen, and Shixiang Zhu*  
+- <u>**Spotlight**, Deep Generative Models for Health Workshop, NeurIPS 2023</u>   
+- <u>**First Place**, YinzOR Student Conference Poster Competition</u>  
+- <u>Causal Representation Learning Workshop, NeurIPS 2023</u>  
 
 - **[August 2023]**  We won the first place in 2023 YinzOR Student Conference Poster Competition. [[Paper](https://arxiv.org/abs/2305.15742)] [[Poster](../assets/files/counterfactualposter.pdf)] [[YinzOR website](https://yinzor.cmuinforms.org/)]
 - **[April 2023]** Joined Carnegie Mellon University's Heinz College as a PhD student. [[My departmental directory](https://www.heinz.cmu.edu/faculty-research/profiles/zhou-wenbin)]
