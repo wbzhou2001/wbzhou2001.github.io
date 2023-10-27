@@ -23,6 +23,6 @@ The goal of my research is to construct end-to-end machine learning frameworks t
 
 ## News
 
-- **[October 2023]** Our paper got accepted in both the Deep Generative Models for Health Workshop and the Causal Representation Learning Workshop. [[Paper](https://arxiv.org/abs/2305.15742)] [[DGM4H@NeurIPS2023]](https://neurips.cc/virtual/2023/workshop/66495) [[CRL@NeurIPS2023]](https://crl-workshop.github.io/)
+- **[October 2023]** Our paper got accepted in the Deep Generative Models for Health Workshop and the Causal Representation Learning Workshop. [[Paper](https://arxiv.org/abs/2305.15742)] [[DGM4H@NeurIPS2023]](https://neurips.cc/virtual/2023/workshop/66495) [[CRL@NeurIPS2023]](https://crl-workshop.github.io/)
 - **[August 2023]**  I won the first place in 2023 YinzOR Student Conference Poster Competition. [[Paper](https://arxiv.org/abs/2305.15742)] [[Poster](../assets/files/counterfactualposter.pdf)] [[YinzOR website](https://yinzor.cmuinforms.org/)]
 - **[April 2023]** Joined Carnegie Mellon University's Heinz College as a PhD student. [[My departmental directory](https://www.heinz.cmu.edu/faculty-research/profiles/zhou-wenbin)]
