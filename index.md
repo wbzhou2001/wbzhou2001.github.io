@@ -11,7 +11,7 @@ My name is Wenbin Zhou, I am a Ph.D. student at [Heinz College of Information Sy
 The goal of my research is to construct end-to-end machine learning frameworks that provides data-automated solutions or insights associated with reasonable model explainability to address emerging societal challenges. To this end, I expect my research to reach out to policy makers, decision analysts, and industry researchers.
 
 **Applications:** Renewable Energy, Epidemiology, Supply Chain, Transportation System <br>
-**Methodologies:** Statistical Machine Learning (Trustworthy Machine Learning, Causal Inference, Large-scale Data Analytics), Operations Research (Dynammic Programming, Distributional Robust Optimization)
+**Methodologies:** Machine Learning, Data Analytics, Applied Statistics, Operations Research
 
 ## Publications and Preprints
 
