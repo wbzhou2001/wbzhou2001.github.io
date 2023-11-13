@@ -4,7 +4,7 @@ layout: homepage
 
 ## Short Bio
 
-My name is Wenbin Zhou, I am a Ph.D. student at [Heinz College of Information Systems and Public Policy](https://www.heinz.cmu.edu/) of [Carnegie Mellon University](https://www.cmu.edu/), where I am fortunate to have [Woody Zhu](https://sites.google.com/view/woodyzhu) and [Peter Zhang](https://www.andrew.cmu.edu/user/yunz2/) as my advisors. Prior to joining Carnegie Mellon University, I obtained my B.S. in Statistics at [The School of Management](http://en.business.ustc.edu.cn/main.htm) of [University of Science and Technology of China](https://en.ustc.edu.cn/) in 2023. 
+I am a Ph.D. student at [Heinz College of Information Systems and Public Policy](https://www.heinz.cmu.edu/) of [Carnegie Mellon University](https://www.cmu.edu/), where I am fortunate to have [Woody Zhu](https://sites.google.com/view/woodyzhu) and [Peter Zhang](https://www.andrew.cmu.edu/user/yunz2/) as my advisors. Prior to joining Carnegie Mellon University, I obtained my B.S. in Statistics at [The School of Management](http://en.business.ustc.edu.cn/main.htm) of [University of Science and Technology of China](https://en.ustc.edu.cn/) in 2023. 
 
 ## Research Interests
 
