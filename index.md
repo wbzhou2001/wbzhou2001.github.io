@@ -10,7 +10,7 @@ I am a Ph.D. student at [Heinz College of Information Systems and Public Policy]
 
 The goal of my research is to construct end-to-end machine learning frameworks that provides data-automated solutions or insights associated with reasonable model explainability to address emerging societal challenges. To this end, I expect my research to reach out to policy makers, decision analysts, and industry researchers.
 
-**Applications:** Renewable Energy, Epidemiology, Supply Chain, Transportation Systems <br>
+**Applications:** Renewable Energy, Epidemiology, Engineering Systems <br>
 **Methodologies:** Machine Learning, Data Analytics, Applied Statistics, Operations Research
 
 ## Publications and Preprints
