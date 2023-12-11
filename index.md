@@ -22,7 +22,8 @@ The goal of my research is to construct end-to-end machine learning frameworks t
 - Causal Representation Learning Workshop, NeurIPS 2023
 
 ## News
-- **[December 2023]** I will be attending NeurIPS 2023 [[NeurIPS 2023](https://nips.cc/)] [[Poster](../assets/files/neurips_poster.pdf)]
-- **[November 2023]** Two demos are released on my Github [[Discrete Hawkes Generator](https://github.com/wbzhou2001/Discrete-Hawkes-Generator)] [[DP-Means](https://github.com/wbzhou2001/DP-Means)]
+- **[December 2023]** I will be attending NeurIPS 2023. [[NeurIPS 2023](https://nips.cc/)] [[Poster](../assets/files/neurips_poster.pdf)]
+- **[November 2023]** Two demos are released on my Github. [[Discrete Hawkes Generator](https://github.com/wbzhou2001/Discrete-Hawkes-Generator)] [[DP-Means](https://github.com/wbzhou2001/DP-Means)]
 - **[October 2023]** Our paper got accepted in the Deep Generative Models for Health Workshop and the Causal Representation Learning Workshop. [[Paper](https://arxiv.org/abs/2305.15742)] [[DGM4H@NeurIPS2023](https://neurips.cc/virtual/2023/workshop/66495)] [[CRL@NeurIPS2023](https://crl-workshop.github.io/)]
-- **[August 2023]**  I joined CMU as a Ph.D. student and won the first place in 2023 YinzOR Student Conference Poster Competition. [[Paper](https://arxiv.org/abs/2305.15742)] [[Poster](../assets/files/counterfactualposter.pdf)] [[YinzOR website](https://yinzor.cmuinforms.org/)]
+- **[August 2023]**  I won the first place in 2023 YinzOR Student Conference Poster Competition. [[Poster](../assets/files/counterfactualposter.pdf)] [[YinzOR](https://yinzor.cmuinforms.org/)] [[CMU INFORMS](https://cmuinforms.org/)]
+- **[August 2023]** I joined CMU as a Ph.D. student. [[CMU](https://www.cmu.edu/)] [[Heinz College](https://www.heinz.cmu.edu/)]
