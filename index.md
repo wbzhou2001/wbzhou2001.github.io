@@ -8,10 +8,7 @@ I am a Ph.D. student at [Heinz College of Information Systems and Public Policy]
 
 ## Research Interests
 
-I am interested in studying how to make good decisions with machine learning. I develop end-to-end machine learning frameworks that provides data-automated solutions or insights associated with reasonable model explainability to address emerging societal challenges. To this end, I expect my research to reach out to policy makers, decision analysts, and industry researchers.
-
-**Methodologies:** Machine Learning, Applied Statistics, Operations Research<br>
-**Applications:** Power Systems, Epidemiology
+I am interested in studying sequential decision making with machine learning. I am exploring how algorithms can be designed to make a series of decisions, learning and adapting from past outcomes to optimize future results, enhancing efficiency abd fidelity of machine learning models in dynamic environments confounded with heterogeneities, such as policy making and engineering problems.
 
 ## Publications and Preprints
 
