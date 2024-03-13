@@ -8,7 +8,7 @@ I am a Ph.D. student at [Heinz College of Information Systems and Public Policy]
 
 ## Research Interests
 
-I am interested in studying sequential decision making with machine learning. I am exploring how algorithms can be designed to make a series of decisions, learning and adapting from past outcomes to optimize future results, enhancing efficiency and fidelity of machine learning models in dynamic environments confounded with heterogeneities, such as policy making and engineering problems.
+I am interested in studying sequential decision making with machine learning. I am exploring how algorithms can be designed to make a series of decisions, learning and adapting from past outcomes to optimize future results, enhancing efficiency and fidelity of machine learning models in dynamic environments confounded with heterogeneity, such as policy making and engineering problems.
 
 ## Publications and Preprints
 
