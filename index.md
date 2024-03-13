@@ -2,11 +2,11 @@
 layout: homepage
 ---
 
-## Short Bio
+## Bio
 
 I am a Ph.D. student at [Heinz College of Information Systems and Public Policy](https://www.heinz.cmu.edu/) of [Carnegie Mellon University](https://www.cmu.edu/), advised by [Woody Zhu](https://sites.google.com/view/woodyzhu). Prior to joining Carnegie Mellon University, I received my B.S. in Statistics at [University of Science and Technology of China](https://en.ustc.edu.cn/) in 2023. 
 
-## Research Interests
+## Research
 
 I am interested in studying sequential decision making with machine learning. I am exploring how algorithms can be designed to make a series of decisions, learning and adapting from past outcomes to optimize future results, enhancing efficiency and fidelity of machine learning models in dynamic environments confounded with heterogeneity, such as policy making and engineering problems.
 
