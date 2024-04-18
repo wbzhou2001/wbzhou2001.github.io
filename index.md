@@ -9,7 +9,7 @@ I am a Ph.D. student at [Heinz College of Information Systems and Public Policy]
 I am broadly interested in studying data-driven decision-making problems in real-world applications such as power systems modeling, medical policy engineering, and transportation.
 I hope to integrate and develop new statistical machine learning paradigms for this purpose, spanning topics such as generative models, uncertainty quantification, and causal inference.
 
-### We are organizing YinzOR 2024 in Pittsburgh on August 23-24! Students of all levels are welcome to join! [[Poster Register](https://forms.gle/KoYLJ7QfuNedth5p7)] [[Flash Talk Register](https://forms.gle/5mNmXy89ukJzPLM97)]! 
+### We are organizing YinzOR 2024 in Pittsburgh on August 23-24! Students of all levels are welcome to join! [[Poster Register](https://forms.gle/f69y6kJRsiRwCsrN6)] [[Flash Talk Register](https://forms.gle/44B7RZ69c9y6tFH57)]! 
 
 ## Publications and Preprints
 
