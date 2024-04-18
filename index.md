@@ -16,7 +16,6 @@ I hope to integrate and develop new statistical machine learning paradigms for t
 <b>[1] [Counterfactual Generative Models for Time-varying Treatments](https://arxiv.org/abs/2305.15742)</b>  
 *Shenghao Wu, <u>Wenbin Zhou</u>, Minshuo Chen, and Shixiang Zhu*
 - <b>Spotlight</b>, Deep Generative Models for Health Workshop, NeurIPS 2023   
-- <b>First Place</b>, Student Conference Poster Competition, YinzOR 2023  
 - Causal Representation Learning Workshop, NeurIPS 2023
 
 ## News
