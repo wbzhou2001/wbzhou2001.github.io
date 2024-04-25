@@ -19,7 +19,8 @@ I hope to integrate and develop new statistical machine learning paradigms for t
 - Causal Representation Learning Workshop, NeurIPS 2023
 
 ## News
-- **[March 2024]** Will be serving as the co-chair for flash talk & poster session for YinzOR 2024. [[YinzOR](https://yinzor.cmuinforms.org/)] [[CMU INFORMS](https://cmuinforms.org/)]
+- **[April 2024]** Serve as a Session Chair of Predictive Analytics for High-stake Decision Making for INFORMS Annual 2024.
+- **[March 2024]** Serve as a co-chair for flash talk & poster session for YinzOR 2024. [[YinzOR](https://yinzor.cmuinforms.org/)] [[CMU INFORMS](https://cmuinforms.org/)]
 - **[December 2023]** Attended NeurIPS 2023 at New Orleans, LA. [[NeurIPS 2023](https://nips.cc/)] [[Poster](../assets/files/neurips_poster.pdf)]
 - **[October 2023]** Our paper got accepted in the Deep Generative Models for Health Workshop and the Causal Representation Learning Workshop. [[Paper](https://arxiv.org/abs/2305.15742)] [[DGM4H@NeurIPS2023](https://neurips.cc/virtual/2023/workshop/66495)] [[CRL@NeurIPS2023](https://crl-workshop.github.io/)]
 - **[August 2023]**  Won first place in the 2023 YinzOR Student Conference Poster Competition. [[Poster](../assets/files/counterfactualposter.pdf)] [[YinzOR](https://yinzor.cmuinforms.org/)] [[CMU INFORMS](https://cmuinforms.org/)]
