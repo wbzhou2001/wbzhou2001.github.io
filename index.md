@@ -6,7 +6,7 @@ layout: homepage
 
 I am a Ph.D. student at [Heinz College of Information Systems and Public Policy](https://www.heinz.cmu.edu/) of [Carnegie Mellon University](https://www.cmu.edu/), advised by [Woody Zhu](https://sites.google.com/view/woodyzhu). Before joining Carnegie Mellon University, I received my B.S. in Statistics at [University of Science and Technology of China](https://en.ustc.edu.cn/) in 2023. 
 
-I am broadly interested in studying data-driven decision-making problems in real-world applications such as power systems modeling, medical policy engineering, and transportation.
+I am broadly interested in studying data-driven decision-making problems in real-world applications such as power systems, public health, and transportation.
 I hope to integrate and develop new statistical machine learning paradigms for this purpose, spanning topics such as generative models, uncertainty quantification, and causal inference.
 
 ### We are organizing YinzOR 2024 in Pittsburgh on August 23-24! Students of all levels are welcome to join! [[Poster Register](https://forms.gle/f69y6kJRsiRwCsrN6)] [[Flash Talk Register](https://forms.gle/44B7RZ69c9y6tFH57)]! 
