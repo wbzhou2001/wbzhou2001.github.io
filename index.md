@@ -14,7 +14,7 @@ I hope to integrate and develop new statistical machine learning paradigms for t
 ## Publications and Preprints
 
 <b>[1] [Counterfactual Generative Models for Time-varying Treatments](https://arxiv.org/abs/2305.15742)</b>  
-*Shenghao Wu, <u>Wenbin Zhou</u>, Minshuo Chen, and Shixiang Zhu* </br>
+*Shenghao Wu, <u>Wenbin Zhou</u>, Minshuo Chen, and Shixiang Zhu* <br/>
 **Accepted by ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2024**
 
 ## News
