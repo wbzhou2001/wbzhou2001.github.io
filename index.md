@@ -11,7 +11,7 @@ I hope to integrate and develop new statistical machine learning paradigms for t
 
 **We are organizing [[YinzOR 2024](https://yinzor.cmuinforms.org/)]! Consider submitting your work here [[Poster Register](https://forms.gle/f69y6kJRsiRwCsrN6)] [[Flash Talk Register](https://forms.gle/44B7RZ69c9y6tFH57)]!**
 
-## Publications and Preprints
+## Publications
 
 <b>[1] [Counterfactual Generative Models for Time-varying Treatments](https://arxiv.org/abs/2305.15742)</b>  
 *Shenghao Wu, <u>Wenbin Zhou</u>, Minshuo Chen, and Shixiang Zhu* <br/>
