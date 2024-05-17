@@ -15,7 +15,7 @@ I hope to integrate and develop new statistical machine learning paradigms for t
 
 <b>[1] [Counterfactual Generative Models for Time-varying Treatments](https://arxiv.org/abs/2305.15742)</b>  
 *Shenghao Wu, <u>Wenbin Zhou</u>, Minshuo Chen, and Shixiang Zhu* <br/>
-**Accepted by ACM KDD 2024**
+**ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2024**
 
 ## News
 - **[April 2024]** Serving as a session chair for Predictive Analytics for High-stake Decision Making in INFORMS Annual 2024. [[INFORMS DAS](https://connect.informs.org/das/home)]
