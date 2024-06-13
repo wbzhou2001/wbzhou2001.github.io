@@ -16,6 +16,7 @@ I hope to integrate and develop new statistical machine learning paradigms for t
 **ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2024**
 
 ## News
+- **[May 2024]** Joined Argonne National Laboratory as a research intern. [[Argonne](https://www.anl.gov/)]
 - **[April 2024]** Serving as a session chair for Predictive Analytics for High-stake Decision Making in INFORMS Annual 2024. [[INFORMS DAS](https://connect.informs.org/das/home)]
 - **[March 2024]** Serving as a session co-chair for flash talks & posters in YinzOR 2024. [[YinzOR](https://yinzor.cmuinforms.org/)] [[CMU INFORMS](https://cmuinforms.org/)]
 - **[December 2023]** Attended NeurIPS 2023 at New Orleans, LA. [[NeurIPS 2023](https://nips.cc/)] [[Poster](../assets/files/neurips_poster.pdf)]
