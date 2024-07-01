@@ -9,9 +9,13 @@ I am a Ph.D. student at [Heinz College of Information Systems and Public Policy]
 I am broadly interested in studying data-driven decision-making problems in real-world applications such as power systems, public health, and transportation.
 I hope to integrate and develop new statistical machine learning paradigms for this purpose, spanning topics such as generative models, uncertainty quantification, and causal inference.
 
-## Publications
+## Research
 
-<b>[1] [Counterfactual Generative Models for Time-varying Treatments](https://arxiv.org/abs/2305.15742)</b>  
+<b>[1] [Isometry-Preserving Generative Modeling for Spatial Transcriptomics]()</b>  
+*<u>Wenbin Zhou</u>, and Jin-Hong Du* <br/>
+**23rd International Workshop on Data Mining in Bioinformatics (BIOKDD), 2024**
+
+<b>[2] [Counterfactual Generative Models for Time-varying Treatments](https://arxiv.org/abs/2305.15742)</b>  
 *Shenghao Wu, <u>Wenbin Zhou</u>, Minshuo Chen, and Shixiang Zhu* <br/>
 **ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2024**
 
