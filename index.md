@@ -12,7 +12,7 @@ I develop new statistical machine learning tools for this purpose, spanning topi
 ## Research
 
 <b>[1] [Isometry-Preserving Generative Modeling for Spatial Transcriptomics]()</b>  
-*<u>Wenbin Zhou</u>, and Jin-Hong Du* <br/>
+*<u>Wenbin Zhou</u> and Jin-Hong Du* <br/>
 **23rd International Workshop on Data Mining in Bioinformatics (BIOKDD), 2024**
 
 <b>[2] [Counterfactual Generative Models for Time-varying Treatments](https://arxiv.org/abs/2305.15742)</b>  
