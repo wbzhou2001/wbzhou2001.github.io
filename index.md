@@ -4,7 +4,7 @@ layout: homepage
 
 ## Welcome!
 
-I am a Ph.D. student at [Heinz College of Information Systems and Public Policy](https://www.heinz.cmu.edu/) of [Carnegie Mellon University](https://www.cmu.edu/), advised by [Woody Zhu](https://sites.google.com/view/woodyzhu). Before joining Carnegie Mellon University, I received my B.S. in Statistics at [University of Science and Technology of China](https://en.ustc.edu.cn/) in 2023. 
+I am a Ph.D. student at [Heinz College of Information Systems and Public Policy](https://www.heinz.cmu.edu/) of [Carnegie Mellon University](https://www.cmu.edu/), advised by [Woody Zhu](https://sites.google.com/view/woodyzhu). I received my B.S. in Statistics at [University of Science and Technology of China](https://en.ustc.edu.cn/) in 2023. 
 
 My research interest lies broadly in studying data-driven decision-making problems in real-world applications such as sustainability and public health.
 I develop new statistical machine learning tools for this purpose, spanning topics such as generative models, uncertainty quantification, and causal inference.
