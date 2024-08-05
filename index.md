@@ -11,7 +11,7 @@ I develop new statistical machine learning tools for this purpose, spanning topi
 
 ## Research
 
-<b>[1] [Isometry-Preserving Generative Modeling for Spatial Transcriptomics]()</b>  
+<b>[1] [Distance-Preserving Generative Modeling of Spatial Transcriptomics](https://arxiv.org/abs/2408.00911)</b>  
 *<u>Wenbin Zhou</u> and Jin-Hong Du* <br/>
 **23rd International Workshop on Data Mining in Bioinformatics (BIOKDD), 2024**
 
