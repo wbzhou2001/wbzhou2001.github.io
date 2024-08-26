@@ -20,7 +20,7 @@ I develop new statistical machine learning tools for this purpose, spanning topi
 **ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2024**
 
 ## News
-- **[Aug 2024]** Gave a talk at BIOKDD 2024. [[Paper](https://arxiv.org/abs/2408.00911)]
+- **[Aug 2024]** Gave a talk at BIOKDD 2024 in the accepted research paper session. [[Paper](https://arxiv.org/abs/2408.00911)]
 - **[May 2024]** Joining Argonne National Laboratory as a technical research aide. [[Argonne](https://www.anl.gov/)]
 - **[April 2024]** Serving as a session chair for Predictive Analytics for High-stake Decision Making in INFORMS Annual 2024. [[INFORMS DAS](https://connect.informs.org/das/home)]
 - **[March 2024]** Serving as a session co-chair for flash talks & posters in YinzOR 2024. [[YinzOR](https://yinzor.cmuinforms.org/)] [[CMU INFORMS](https://cmuinforms.org/)]
