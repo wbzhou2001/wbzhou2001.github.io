@@ -11,11 +11,12 @@ I develop new statistical machine learning tools for this purpose, spanning topi
 
 ## Research
 
-<b>[1] [Distance-Preserving Generative Modeling of Spatial Transcriptomics](https://arxiv.org/abs/2408.00911)</b>  
+<b>[1] [Distance-Preserving Generative Modeling of Spatial Transcriptomics](https://arxiv.org/abs/2408.00911)</b> [[Paper](https://arxiv.org/abs/2408.00911)] [[Slides](../assets/files/biokdd2024-slides.pdf)]<br/>
 *<u>Wenbin Zhou</u> and Jin-Hong Du* <br/>
 **23rd International Workshop on Data Mining in Bioinformatics (BIOKDD), 2024**
 
-<b>[2] [Counterfactual Generative Models for Time-varying Treatments](https://arxiv.org/abs/2305.15742)</b>  
+<b>[2] [Counterfactual Generative Models for Time-varying Treatments](https://arxiv.org/abs/2305.15742)</b> 
+[[Paper](https://arxiv.org/abs/2408.00911)] [[Poster](../assets/files/kdd2024-poster.pdf)]<br/>
 *Shenghao Wu, <u>Wenbin Zhou</u>, Minshuo Chen, and Shixiang Zhu* <br/>
 **ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2024**
 
