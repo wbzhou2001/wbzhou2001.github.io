@@ -21,7 +21,7 @@ I develop new statistical machine learning tools for this purpose, spanning topi
 
 ## News
 - **[Aug 2024]** Gave a talk at the BIOKDD 2024 workshop. [[Paper](https://arxiv.org/abs/2408.00911)]
-- **[May 2024]** Interned at Argonne National Laboratory. [[Argonne](https://www.anl.gov/)]
+- **[May 2024]** Joining Argonne National Laboratory as a technical research aide. [[Argonne](https://www.anl.gov/)]
 - **[April 2024]** Serving as a session chair for Predictive Analytics for High-stake Decision Making in INFORMS Annual 2024. [[INFORMS DAS](https://connect.informs.org/das/home)]
 - **[March 2024]** Serving as a session co-chair for flash talks & posters in YinzOR 2024. [[YinzOR](https://yinzor.cmuinforms.org/)] [[CMU INFORMS](https://cmuinforms.org/)]
 - **[October 2023]** Our paper got accepted in the Deep Generative Models for Health Workshop (spotlight) and the Causal Representation Learning Workshop at NeurIPS. [[Paper](https://arxiv.org/abs/2305.15742)] [[DGM4H@NeurIPS2023](https://neurips.cc/virtual/2023/workshop/66495)] [[CRL@NeurIPS2023](https://crl-workshop.github.io/)]
