@@ -21,9 +21,9 @@ I develop new statistical machine learning tools for this purpose, spanning topi
 **ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2024**
 
 ## News
-- **[Aug 2024]** Gave a talk at BIOKDD 2024 in the accepted research paper session. [[Paper](https://arxiv.org/abs/2408.00911)]
-- **[May 2024]** Joining Argonne National Laboratory as a technical research aide. [[Argonne](https://www.anl.gov/)]
-- **[April 2024]** Serving as a session chair for Predictive Analytics for High-stake Decision Making in INFORMS Annual 2024. [[INFORMS DAS](https://connect.informs.org/das/home)]
-- **[March 2024]** Serving as a session co-chair for flash talks & posters in YinzOR 2024. [[YinzOR](https://yinzor.cmuinforms.org/)] [[CMU INFORMS](https://cmuinforms.org/)]
+- **[Aug 2024]** Gave a talk([paper](https://arxiv.org/abs/2408.00911)) at BIOKDD 2024.
+- **[May 2024]** Joined [Argonne National Laboratory](https://www.anl.gov/) as a technical research aide.
+- **[April 2024]** Serving as a session chair for Predictive Analytics for High-stake Decision Making in [INFORMS Annual 2024](https://meetings.informs.org/wordpress/seattle2024/).
+- **[March 2024]** Serving as a session co-chair for flash talks & posters in [YinzOR 2024](https://yinzor.cmuinforms.org/).
 - **[October 2023]** Our paper got accepted in the Deep Generative Models for Health Workshop (spotlight) and the Causal Representation Learning Workshop at NeurIPS. [[Paper](https://arxiv.org/abs/2305.15742)] [[DGM4H@NeurIPS2023](https://neurips.cc/virtual/2023/workshop/66495)] [[CRL@NeurIPS2023](https://crl-workshop.github.io/)]
 - **[August 2023]**  Won first place in the 2023 YinzOR Student Conference Poster Competition. [[Poster](../assets/files/counterfactualposter.pdf)] [[YinzOR](https://yinzor.cmuinforms.org/)] [[CMU INFORMS](https://cmuinforms.org/)]
