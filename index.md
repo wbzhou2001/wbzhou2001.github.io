@@ -26,4 +26,4 @@ I develop new statistical machine learning tools for this purpose, spanning topi
 - **[May 2024]** Interned at [Argonne National Laboratory](https://www.anl.gov/).
 - **[March 2024]** Serving as a session co-chair for flash talks & posters at [YinzOR 2024](https://yinzor.cmuinforms.org/).
 - **[October 2023]** Our [paper](https://arxiv.org/abs/2305.15742) got accepted in the [Deep Generative Models for Health Workshop](https://neurips.cc/virtual/2023/workshop/66495) (spotlight) and the [Causal Representation Learning Workshop](https://crl-workshop.github.io/) at NeurIPS 2023.
-- **[August 2023]** Won first place for my [poster](../assets/files/counterfactualposter.pdf) presentation in poster competition at [YinzOR 2023](https://yinzor.cmuinforms.org/2023/).
+- **[August 2023]** Won first place for [poster](../assets/files/counterfactualposter.pdf) presentation in poster competition at [YinzOR 2023](https://yinzor.cmuinforms.org/2023/).
