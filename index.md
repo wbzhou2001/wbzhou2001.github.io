@@ -12,7 +12,7 @@ Recently, my work has focused on applications in sustainability and health data 
 
 ## Research
 
-<b>[1] [Predicting Uncertainty in Renewable Energy Growth: A Spatio-Temporal Conformal Framework]()</b> [[short poster]()] [[full poster]()] [[slides]()] <br/>
+<b>[1] [Predicting Uncertainty in Renewable Energy Growth: A Spatio-Temporal Conformal Framework]()</b> [[arXiv]()][[short poster]()] [[full poster]()] [[slides]()] <br/>
 *<u>Wenbin Zhou</u>, Shixiang Zhu, Xuan Wu, Feng Qiu (In preparation)* <br/>
 
 <b>[2] [Distance-Preserving Generative Modeling of Spatial Transcriptomics](https://arxiv.org/abs/2408.00911)</b> [[arXiv](https://arxiv.org/abs/2408.00911)] [[slides](../assets/files/biokdd2024-slides.pdf)] [[talk](https://youtu.be/zaxljiLN5Sc)]<br/>
