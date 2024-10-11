@@ -25,7 +25,7 @@ The 23rd International Workshop on Data Mining in Bioinformatics (**BIOKDD**), 2
 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD**), 2024
 
 ## News
-- **[Sept 2024]** Gave a [poster]() presentation at NextGenEC 2024.
+- **[Sept 2024]** Gave an online [poster]() presentation at NextGenEC 2024.
 - **[Aug 2024]** Gave a [talk](https://youtu.be/zaxljiLN5Sc) on our accepted [paper](https://arxiv.org/abs/2408.00911) at BIOKDD 2024.
 - **[May 2024]** Interned at [Argonne National Laboratory](https://www.anl.gov/).
 - **[March 2024]** Serving as a session co-chair for flash talks & posters at [YinzOR 2024](https://yinzor.cmuinforms.org/).
