@@ -8,7 +8,7 @@ I am a Ph.D. student in Machine Learning and Public Policy at [Carnegie Mellon U
 
 I am interested in developing tools for analyzing complex data and guiding practical decision-making.
 My works span across topics in machine learning, uncertainty quantificaiton, spatio-temporal modeling and causal inference.
-Some of my recent efforts have been focusing on applications in sustainability and health data science.
+Some of my recent efforts centers around sustainability and health data science.
 
 ## Research
 
