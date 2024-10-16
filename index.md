@@ -7,7 +7,7 @@ layout: homepage
 I am a Ph.D. student in Machine Learning and Public Policy at [Carnegie Mellon University](https://www.cmu.edu/), advised by [Woody Zhu](https://sites.google.com/view/woodyzhu). I received my B.S. in Statistics at [University of Science and Technology of China](https://en.ustc.edu.cn/) in 2023. 
 
 I am interested in developing tools for analyzing complex data and guiding practical decision-making.
-My research covers topics including machine learning, uncertainty quantification, spatio-temporal modeling, and causal inference.
+My research covers topics including generative AI, uncertainty quantification, spatio-temporal modeling, and causal inference.
 Recently, my work has focused on applications in sustainability and health data science.
 
 ## Research
