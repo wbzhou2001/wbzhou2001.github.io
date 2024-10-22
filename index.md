@@ -17,6 +17,7 @@ Recently, my work has focused on applications in sustainability and health data 
 
 <b>[2] [Recurrent Neural Goodness-of-Fit Test for Time Series](https://arxiv.org/abs/2410.13986)</b> [[arXiv](https://arxiv.org/abs/2410.13986)]<br/>
 *Aoran Zhang, <u>Wenbin Zhou</u>, Liyan Xie and Shixiang Zhu* <br/>
+Preprint
 
 <b>[3] [Distance-Preserving Generative Modeling of Spatial Transcriptomics](https://arxiv.org/abs/2408.00911)</b> [[arXiv](https://arxiv.org/abs/2408.00911)] [[slides](../assets/files/biokdd2024-slides.pdf)] [[talk](https://youtu.be/zaxljiLN5Sc)]<br/>
 *<u>Wenbin Zhou</u> and Jin-Hong Du* <br/>
