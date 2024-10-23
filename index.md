@@ -15,7 +15,7 @@ Recently, my work has focused on applications in sustainability and health data 
 <b>[1] [Predicting Uncertainty in Renewable Energy Growth: A Spatio-Temporal Conformal Framework]()</b> [[poster](../assets/files/stcp-poster.pdf)]<br/>
 *<u>Wenbin Zhou</u> and Shixiang Zhu (In preparation)* <br/>
 
-<b>[2] [Recurrent Neural Goodness-of-Fit Test for Time Series](https://arxiv.org/abs/2410.13986)</b> [[arXiv](https://arxiv.org/abs/2410.13986)]<br/>
+<b>[2] [Recurrent Neural Goodness-of-Fit Test for Time Series](https://arxiv.org/abs/2410.13986)</b> [[arXiv](https://arxiv.org/abs/2410.13986)] [[poster](../assets/files/renal-poster.pdf)]<br/>
 *Aoran Zhang, <u>Wenbin Zhou</u>, Liyan Xie and Shixiang Zhu* <br/>
 Preprint
 
