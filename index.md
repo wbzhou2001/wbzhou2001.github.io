@@ -21,7 +21,7 @@ Preprint
 
 <b>[3] [Distance-Preserving Generative Modeling of Spatial Transcriptomics](https://arxiv.org/abs/2408.00911)</b> [[arXiv](https://arxiv.org/abs/2408.00911)] [[slides](../assets/files/biokdd2024-slides.pdf)] [[talk](https://youtu.be/zaxljiLN5Sc)]<br/>
 *<u>Wenbin Zhou</u> and Jin-Hong Du* <br/>
-The 23rd International Workshop on Data Mining in Bioinformatics (**BIOKDD**), 2024
+Short version accepted by the 23rd International Workshop on Data Mining in Bioinformatics (**BIOKDD**), 2024
 
 <b>[4] [Counterfactual Generative Models for Time-varying Treatments](https://dl.acm.org/doi/10.1145/3637528.3671950)</b> 
 [[arXiv](https://arxiv.org/abs/2305.15742)] [[poster](../assets/files/kdd2024-poster.pdf)] [[talk]()]<br/>
