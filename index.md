@@ -10,7 +10,7 @@ I am interested in developing tools for analyzing complex data and guiding pract
 My research covers topics including generative AI, uncertainty quantification, spatio-temporal modeling, and causal inference.
 Recently, my work has focused on applications in sustainability and health data science.
 
-## Research
+## Papers
 
 <b>[1] [Predicting Uncertainty in Renewable Energy Growth: A Spatio-Temporal Conformal Framework]()</b> [[poster](../assets/files/stcp-poster.pdf)]<br/>
 *<u>Wenbin Zhou</u> and Shixiang Zhu (In preparation)* <br/>
