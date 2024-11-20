@@ -12,7 +12,7 @@ Recently, my work has focused on applications in sustainability and health data 
 
 ## Papers
 
-<b>[1] [Hierarchical Spatio-Temporal Uncertainty Quantification for Distributed Energy Adoption]()</b> [[poster](../assets/files/stcp-poster.pdf)]<br/>
+<b>[1] [Hierarchical Spatio-Temporal Uncertainty Quantification for Distributed Energy Adoption]()</b> [[arXiv](https://arxiv.org/abs/2411.12193)] [[poster](../assets/files/stcp-poster.pdf)]<br/>
 *<u>Wenbin Zhou</u>, Shixiang Zhu, Feng Qiu and Xuan Wu* <br/>
 
 <b>[2] [Recurrent Neural Goodness-of-Fit Test for Time Series](https://arxiv.org/abs/2410.13986)</b> [[arXiv](https://arxiv.org/abs/2410.13986)] [[poster](../assets/files/renal-poster.pdf)]<br/>
