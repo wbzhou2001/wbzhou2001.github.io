@@ -34,3 +34,6 @@ ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KD
 - **[March 2024]** Served as a session co-chair for flash talks & posters at [YinzOR 2024](https://yinzor.cmuinforms.org/).
 - **[October 2023]** Our [paper](https://arxiv.org/abs/2305.15742) got accepted in the [Deep Generative Models for Health Workshop](https://neurips.cc/virtual/2023/workshop/66495) (spotlight) and the [Causal Representation Learning Workshop](https://crl-workshop.github.io/) at NeurIPS 2023.
 - **[August 2023]** Won first place for [poster](../assets/files/counterfactualposter.pdf) presentation in poster competition at [YinzOR 2023](https://yinzor.cmuinforms.org/2023/).
+
+## Media Coverage
+- [New Models Improve Policy Impact and Public Service Efficiency (2023)](https://www.heinz.cmu.edu/media/2023/October/new-models-improve-policy-impact-and-public-service-efficiency)
