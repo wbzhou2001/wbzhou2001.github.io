@@ -10,7 +10,7 @@ Previously, I received my B.S. in Statistics at [University of Science and Techn
 My research interests lie in developing data-driven methods for social good,
 integrating machine learning, statistical, and operations research techniques.
 My work spans areas such as generative modeling, uncertainty quantification, spatio-temporal analysis, and causal inference.
-I have concentrated on applications of these methods in sustainability, public health, and seismology recently.
+I am concentrating on applications of these methods in sustainability, public health, and seismology recently.
 
 ## Papers
 
