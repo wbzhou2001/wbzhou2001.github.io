@@ -5,7 +5,7 @@ layout: homepage
 ## Welcome!
 
 I am a second-year Ph.D. student in Machine Learning and Public Policy at [Carnegie Mellon University](https://www.cmu.edu/), advised by [Woody Zhu](https://sites.google.com/view/woodyzhu).
-Previously, I received my B.S. in Statistics at [University of Science and Technology of China](https://en.ustc.edu.cn/) in 2023. 
+Previously, I received my B.S. in Statistics at [University of Science and Technology of China](https://en.ustc.edu.cn/). 
 
 My research interests lie in developing data-driven methods for social good,
 blending machine learning, statistics, and operations research.
