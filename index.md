@@ -38,5 +38,5 @@ ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KD
 - **[August 2023]** Won first place for [poster](../assets/files/counterfactualposter.pdf) presentation in poster competition at [YinzOR 2023](https://yinzor.cmuinforms.org/2023/).
 
 ## Featured Articles
-- [New Models Improve Policy Impact and Public Service Efficiency (2023)](https://www.heinz.cmu.edu/media/2023/October/new-models-improve-policy-impact-and-public-service-efficiency)
+- [New Models Improve Policy Impact and Public Service Efficiency](https://www.heinz.cmu.edu/media/2023/October/new-models-improve-policy-impact-and-public-service-efficiency)
 - [Heinz College: 2023 Year in Review](https://www.heinz.cmu.edu/about/year-in-review/2023-year-in-review)
