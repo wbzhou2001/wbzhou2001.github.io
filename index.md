@@ -9,7 +9,7 @@ advised by [Woody Zhu](https://sites.google.com/view/woodyzhu).
 Previously, I received my B.S. in Statistics at [University of Science and Technology of China](https://en.ustc.edu.cn/). 
 
 My research interests lie in developing data-driven methods for social good,
-blending machine learning, statistics, and operations research.
+blending **machine learning, statistics, and operations research**.
 My work spans areas such as generative modeling, uncertainty quantification, spatio-temporal analysis, and causal inference.
 I am concentrating on applications of these methods in sustainability, public health, and seismology recently.
 
