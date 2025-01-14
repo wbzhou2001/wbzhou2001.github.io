@@ -15,7 +15,7 @@ Some of my application fields include sustainability, public health, and seismol
 
 ## Papers
 
-<b>[1] [Hierarchical Spatio-Temporal Uncertainty Quantification for Distributed Energy Adoption]()</b> [[arXiv](https://arxiv.org/abs/2411.12193)] [[poster](../assets/files/stcp-poster.pdf)]<br/>
+<b>[1] [Hierarchical Spatio-Temporal Uncertainty Quantification for Distributed Energy Adoption](https://arxiv.org/abs/2411.12193)</b> [[arXiv](https://arxiv.org/abs/2411.12193)] [[poster](../assets/files/stcp-poster.pdf)]<br/>
 *<u>Wenbin Zhou</u>, Shixiang Zhu, Feng Qiu and Xuan Wu* <br/>
 
 <b>[2] [Recurrent Neural Goodness-of-Fit Test for Time Series](https://arxiv.org/abs/2410.13986)</b> [[arXiv](https://arxiv.org/abs/2410.13986)] [[poster](../assets/files/renal-poster.pdf)]<br/>
@@ -29,6 +29,10 @@ The 23rd International Workshop on Data Mining in Bioinformatics (**BIOKDD**), 2
 [[arXiv](https://arxiv.org/abs/2305.15742)] [[poster](../assets/files/kdd2024-poster.pdf)] [[talk]()]<br/>
 *Shenghao Wu, <u>Wenbin Zhou</u>, Minshuo Chen, and Shixiang Zhu* <br/>
 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD**), 2024
+
+## Software
+<b>[1] [AES Indiana 2025-2050 EVPV Projection Dashboard]()</b> [[EV](https://wbzhou2001.github.io/EVPV-Dashboard/ev_dashboard.html)] [[PV](https://wbzhou2001.github.io/EVPV-Dashboard/pv_dashboard.html)]<br/>
+To appear in AES Indiana's Integrated Resource Plan (IRP) public report and advisory meetings, 2025.
 
 ## News
 - **[Oct 2024]** Gave a [talk](https://submissions.mirasmart.com/InformsAnnual2024/Itinerary/PresentationDetail.aspx?evdid=2036) and presented [poster](../assets/files/stcp-poster.pdf) at [2024 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/seattle2024/).
