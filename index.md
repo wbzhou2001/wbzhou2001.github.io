@@ -31,7 +31,7 @@ The 23rd International Workshop on Data Mining in Bioinformatics (**BIOKDD**), 2
 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD**), 2024
 
 ## Software
-<b>[1] [AES Indiana 2025-2050 EVPV Projection Dashboard]()</b> [[EV](https://wbzhou2001.github.io/EVPV-Dashboard/ev_dashboard.html)] [[PV](https://wbzhou2001.github.io/EVPV-Dashboard/pv_dashboard.html)] [[Slides]()]<br/>
+<b>[1] [AES Indiana 2025-2050 EVPV Projection Dashboard]()</b> [[EV](https://wbzhou2001.github.io/EVPV-Dashboard/ev_dashboard.html)] [[PV](https://wbzhou2001.github.io/EVPV-Dashboard/pv_dashboard.html)] [[slides]()]<br/>
 To appear in AES Indiana's [Integrated Resource Plan (IRP)](https://www.aesindiana.com/integrated-resource-plan) advisory meetings and [public report](https://www.aesindiana.com/integrated-resource-plan), 2025.
 
 ## News
