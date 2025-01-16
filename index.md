@@ -8,7 +8,7 @@ I am a second-year Ph.D. student with [Heinz College](https://www.heinz.cmu.edu/
 advised by [Woody Zhu](https://sites.google.com/view/woodyzhu).
 Previously, I received my B.S. in Statistics at [University of Science and Technology of China](https://en.ustc.edu.cn/). 
 
-My research interests lie in developing data-driven methods for social good,
+My research interests lie in developing data-driven and computational methods for social good,
 blending **machine learning, statistics, and operations research**.
 My works span areas such as generative modeling, uncertainty quantification, sequential analysis, and causal inference.
 Some of my application fields include sustainability, public health, and seismology.
