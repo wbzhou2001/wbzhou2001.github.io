@@ -15,17 +15,20 @@ Some of my application fields include sustainability, public health, and seismol
 
 ## Papers
 
-<b>[1] [Hierarchical Spatio-Temporal Uncertainty Quantification for Distributed Energy Adoption](https://arxiv.org/abs/2411.12193)</b> [[arXiv](https://arxiv.org/abs/2411.12193)] [[poster](../assets/files/stcp-poster.pdf)]<br/>
+<b>[1] [Sequential Change Point Detection via Denoising Score Matching]()</b> [[arXiv]()] <br/>
+*<u>Wenbin Zhou</u>, Liyan Xie, Zhigang Peng and Shixiang Zhu* <br/>
+
+<b>[2] [Hierarchical Spatio-Temporal Uncertainty Quantification for Distributed Energy Adoption](https://arxiv.org/abs/2411.12193)</b> [[arXiv](https://arxiv.org/abs/2411.12193)] [[poster](../assets/files/stcp-poster.pdf)]<br/>
 *<u>Wenbin Zhou</u>, Shixiang Zhu, Feng Qiu and Xuan Wu* <br/>
 
-<b>[2] [Recurrent Neural Goodness-of-Fit Test for Time Series](https://arxiv.org/abs/2410.13986)</b> [[arXiv](https://arxiv.org/abs/2410.13986)] [[poster](../assets/files/renal-poster.pdf)]<br/>
+<b>[3] [Recurrent Neural Goodness-of-Fit Test for Time Series](https://arxiv.org/abs/2410.13986)</b> [[arXiv](https://arxiv.org/abs/2410.13986)] [[poster](../assets/files/renal-poster.pdf)]<br/>
 *Aoran Zhang, <u>Wenbin Zhou</u>, Liyan Xie and Shixiang Zhu* <br/>
 
-<b>[3] [Distance-Preserving Spatial Representations in Genomic Data](https://arxiv.org/abs/2408.00911)</b> [[arXiv](https://arxiv.org/abs/2408.00911)] [[slides](../assets/files/biokdd2024-slides.pdf)] [[talk](https://youtu.be/zaxljiLN5Sc)]<br/>
+<b>[4] [Distance-Preserving Spatial Representations in Genomic Data](https://arxiv.org/abs/2408.00911)</b> [[arXiv](https://arxiv.org/abs/2408.00911)] [[slides](../assets/files/biokdd2024-slides.pdf)] [[talk](https://youtu.be/zaxljiLN5Sc)]<br/>
 *<u>Wenbin Zhou</u> and Jin-Hong Du* <br/>
 The 23rd International Workshop on Data Mining in Bioinformatics (**BIOKDD**), 2024
 
-<b>[4] [Counterfactual Generative Models for Time-varying Treatments](https://dl.acm.org/doi/10.1145/3637528.3671950)</b> 
+<b>[5] [Counterfactual Generative Models for Time-varying Treatments](https://dl.acm.org/doi/10.1145/3637528.3671950)</b> 
 [[arXiv](https://arxiv.org/abs/2305.15742)] [[poster](../assets/files/kdd2024-poster.pdf)] [[talk]()]<br/>
 *Shenghao Wu, <u>Wenbin Zhou</u>, Minshuo Chen, and Shixiang Zhu* <br/>
 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD**), 2024
