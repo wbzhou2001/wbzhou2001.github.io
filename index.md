@@ -14,13 +14,13 @@ Some of my recent application domains include sustainability, public health, and
 
 ## Papers
 
-<b>[1] [Sequential Change Point Detection via Denoising Score Matching](../assets/files/dsm-cusum.pdf)</b> [[arXiv]()] <br/>
+<b>[1] [Sequential Change Point Detection via Denoising Score Matching](../assets/files/dsm-cusum.pdf)</b> [[arXiv]()] [[code][https://github.com/wbzhou2001/DSM-CUSUM]] <br/>
 *<u>Wenbin Zhou</u>, Liyan Xie, Zhigang Peng and Shixiang Zhu* <br/>
 
 <b>[2] [Hierarchical Spatio-Temporal Uncertainty Quantification for Distributed Energy Adoption](https://arxiv.org/abs/2411.12193)</b> [[arXiv](https://arxiv.org/abs/2411.12193)] [[poster](../assets/files/stcp-poster.pdf)]<br/>
 *<u>Wenbin Zhou</u>, Shixiang Zhu, Feng Qiu and Xuan Wu* <br/>
 
-<b>[3] [Recurrent Neural Goodness-of-Fit Test for Time Series](https://arxiv.org/abs/2410.13986)</b> [[arXiv](https://arxiv.org/abs/2410.13986)] [[poster](../assets/files/renal-poster.pdf)]<br/>
+<b>[3] [Recurrent Neural Goodness-of-Fit Test for Time Series](https://arxiv.org/abs/2410.13986)</b> [[arXiv](https://arxiv.org/abs/2410.13986)] [[poster](../assets/files/renal-poster.pdf)] [[code](https://github.com/aoranzhangmia/Neural-GoF-Time)]<br/>
 *Aoran Zhang, <u>Wenbin Zhou</u>, Liyan Xie and Shixiang Zhu* <br/>
 International Conference on Artificial Intelligence and Statistics (**AISTATS**), 2025
 
@@ -29,7 +29,7 @@ International Conference on Artificial Intelligence and Statistics (**AISTATS**)
 International Workshop on Data Mining in Bioinformatics (**BIOKDD**), 2024
 
 <b>[5] [Counterfactual Generative Models for Time-varying Treatments](https://dl.acm.org/doi/10.1145/3637528.3671950)</b> 
-[[arXiv](https://arxiv.org/abs/2305.15742)] [[poster](../assets/files/kdd2024-poster.pdf)] [[talk]()]<br/>
+[[arXiv](https://arxiv.org/abs/2305.15742)] [[poster](../assets/files/kdd2024-poster.pdf)] [[talk]()] [[code](https://github.com/ShenghaoWu/Counterfactual-Generative-Models)]<br/>
 *Shenghao Wu, <u>Wenbin Zhou</u>, Minshuo Chen, and Shixiang Zhu* <br/>
 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD**), 2024
 
