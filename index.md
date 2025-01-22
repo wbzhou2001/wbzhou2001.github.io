@@ -9,7 +9,7 @@ advised by [Woody Zhu](https://sites.google.com/view/woodyzhu).
 Previously, I received my B.S. in Statistics at [University of Science and Technology of China](https://en.ustc.edu.cn/). 
 
 My research field lies in the intersection of **machine learning, statistics, and operations research**, aiming to develop data-driven and computational methods addressing various social and/or methodological challenges.
-I am more specifically interested in topics such as generative modeling, sequential analysis, uncertainty quantification and causality.
+Specifically, I am interested in topics such as generative modeling, sequential analysis, uncertainty quantification and causality.
 Some of my recent application domains include sustainability, public health, and seismology.
 
 ## Papers
