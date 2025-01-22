@@ -14,7 +14,7 @@ Some of my recent application domains include sustainability, public health, and
 
 ## Papers
 
-<b>[1] [Sequential Change Point Detection via Denoising Score Matching]()</b> [[arXiv]()] <br/>
+<b>[1] [Sequential Change Point Detection via Denoising Score Matching](../assets/files/dsm-cusum.pdf)</b> [[arXiv]()] <br/>
 *<u>Wenbin Zhou</u>, Liyan Xie, Zhigang Peng and Shixiang Zhu* <br/>
 
 <b>[2] [Hierarchical Spatio-Temporal Uncertainty Quantification for Distributed Energy Adoption](https://arxiv.org/abs/2411.12193)</b> [[arXiv](https://arxiv.org/abs/2411.12193)] [[poster](../assets/files/stcp-poster.pdf)]<br/>
