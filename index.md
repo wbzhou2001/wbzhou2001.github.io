@@ -10,7 +10,7 @@ Previously, I received my B.S. in Statistics at [University of Science and Techn
 
 My research interests lie in developing data-driven and computational methods for social good,
 blending **machine learning, statistics, and operations research**.
-My works span areas such as generative modeling, uncertainty quantification, sequential analysis, and causal inference.
+My works span areas such as generative modeling, sequential analysis, uncertainty quantification and causal inference.
 Some of my application fields include sustainability, public health, and seismology.
 
 ## Papers
