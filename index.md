@@ -5,7 +5,7 @@ layout: homepage
 ## Welcome!
 
 I am a second-year Ph.D. student joint with [Heinz College](https://www.heinz.cmu.edu/) and [Machine Learning Department](https://www.ml.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), advised by [Woody Zhu](https://sites.google.com/view/woodyzhu).
-Previously, I received my B.S. in Statistics at [University of Science and Technology of China](https://en.ustc.edu.cn/). 
+Previously, I received my B.S. in Statistics at [University of Science and Technology of China](https://en.ustc.edu.cn/) (2019-2023). 
 
 My research field lies in the intersection of **machine learning, statistics, and operations research**, aiming to develop data-driven and computational methods addressing various social and/or methodological challenges.
 Specifically, I am interested in topics such as generative modeling, sequential analysis, uncertainty quantification and causality.
