@@ -24,7 +24,7 @@ International Conference on Artificial Intelligence and Statistics (**AISTATS**)
 International Workshop on Data Mining in Bioinformatics (**BIOKDD**), 2024
 
 <b>[5] [Counterfactual Generative Models for Time-varying Treatments](https://dl.acm.org/doi/10.1145/3637528.3671950)</b> 
-[[arXiv](https://arxiv.org/abs/2305.15742)] [[poster](../assets/files/kdd2024-poster.pdf)] [[code](https://github.com/ShenghaoWu/Counterfactual-Generative-Models)] [[media coverage](https://www.heinz.cmu.edu/media/2023/October/new-models-improve-policy-impact-and-public-service-efficiency)] <br/>
+[[arXiv](https://arxiv.org/abs/2305.15742)] [[poster](../assets/files/kdd2024-poster.pdf)] [[code](https://github.com/ShenghaoWu/Counterfactual-Generative-Models)] [[media](https://www.heinz.cmu.edu/media/2023/October/new-models-improve-policy-impact-and-public-service-efficiency)] <br/>
 *Shenghao Wu, <u>Wenbin Zhou</u>, Minshuo Chen, and Shixiang Zhu* <br/>
 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD**), 2024
 
@@ -38,4 +38,4 @@ Featured in AES Indiana's [Integrated Resource Plan (IRP)](https://www.aesindian
 - **[May 2024]** Interned at [Argonne National Laboratory](https://www.anl.gov/).
 - **[Mar 2024]** Served as a session co-chair for flash talks & posters at [YinzOR 2024](https://yinzor.cmuinforms.org/).
 - **[Oct 2023]** Our [paper](https://arxiv.org/abs/2305.15742) got accepted in the [Deep Generative Models for Health Workshop](https://neurips.cc/virtual/2023/workshop/66495) (spotlight) and the [Causal Representation Learning Workshop](https://crl-workshop.github.io/) at NeurIPS 2023.
-- **[Aug 2023]** Won first place for [poster](../assets/files/counterfactualposter.pdf) presentation in poster competition at [YinzOR 2023](https://yinzor.cmuinforms.org/2023/) [[media coverage](https://www.heinz.cmu.edu/about/year-in-review/2023-year-in-review)].
+- **[Aug 2023]** Won first place for [poster](../assets/files/counterfactualposter.pdf) presentation in poster competition at [YinzOR 2023](https://yinzor.cmuinforms.org/2023/) [[media](https://www.heinz.cmu.edu/about/year-in-review/2023-year-in-review)].
