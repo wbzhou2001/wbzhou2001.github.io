@@ -4,7 +4,7 @@ layout: homepage
 
 ## Welcome!
 
-I am a Ph.D. student (2023-) joint with [Heinz College](https://www.heinz.cmu.edu/) and [Machine Learning Department](https://www.ml.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), advised by [Woody Zhu](https://sites.google.com/view/woodyzhu). Previously, I received my B.S. in Statistics at [University of Science and Technology of China](https://en.ustc.edu.cn/). My research field lies in the intersection of **machine learning, statistics, and operations research**. 
+I am a Ph.D. student (2023-) in Machine Learning and Public Policy at [Carnegie Mellon University](https://www.cmu.edu/), advised by [Woody Zhu](https://sites.google.com/view/woodyzhu). Previously, I received my B.S. in Statistics at [University of Science and Technology of China](https://en.ustc.edu.cn/). My research field lies in the intersection of **machine learning, statistics, and operations research**. 
 I am interested in developing probabilistic modeling and inference methods for sequential processes, with a focus on their role in robust decision-making in practice.
 
 ## Papers
