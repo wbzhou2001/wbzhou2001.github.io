@@ -39,4 +39,4 @@ Featured in AES Indiana's [Integrated Resource Plan (IRP)](https://www.aesindian
 - **[May 2024]** Joined [Argonne National Laboratory](https://www.anl.gov/) as a research intern, Lemont IL.
 - **[Mar 2024]** Served as a session co-chair for flash talks & posters at [YinzOR 2024](https://yinzor.cmuinforms.org/), Pittsburgh PA.
 - **[Oct 2023]** Spotlight acceptance by the Neurips 2023 [Deep Generative Models for Health Workshop](https://neurips.cc/virtual/2023/workshop/66495) with our [paper](https://arxiv.org/abs/2305.15742), New Orleans LA.
-- **[Aug 2023]** Won first place for [poster](../assets/files/counterfactualposter.pdf) presentation in poster competition at [YinzOR 2023](https://yinzor.cmuinforms.org/2023/), Pittsburgh PA. [[media coverage](https://www.heinz.cmu.edu/about/year-in-review/2023-year-in-review)]
+- **[Aug 2023]** Won first place for [poster](../assets/files/counterfactualposter.pdf) presentation in poster competition at [YinzOR 2023](https://yinzor.cmuinforms.org/2023/), Pittsburgh PA. [[media](https://www.heinz.cmu.edu/about/year-in-review/2023-year-in-review)]
