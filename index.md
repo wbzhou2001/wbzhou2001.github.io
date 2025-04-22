@@ -9,7 +9,7 @@ I am interested in developing probabilistic modeling and inference methods for s
 
 ## Papers
 
-<b>[1] [Sequential Change Point Detection via Denoising Score Matching](http://arxiv.org/abs/2501.12667)</b> [[arXiv](http://arxiv.org/abs/2501.12667)] [[code](https://github.com/wbzhou2001/DSM-CUSUM)] <br/>
+<b>[1] [Sequential Change Point Detection via Denoising Score Matching](http://arxiv.org/abs/2501.12667)</b> [[arXiv](http://arxiv.org/abs/2501.12667)] [[code](https://github.com/wbzhou2001/Denoising-Score-Change-Point-Detection)] <br/>
 *<u>Wenbin Zhou</u>, Liyan Xie, Zhigang Peng and Shixiang Zhu* <br/>
 
 <b>[2] [Hierarchical Spatio-Temporal Uncertainty Quantification for Distributed Energy Adoption](https://arxiv.org/abs/2411.12193)</b> [[arXiv](https://arxiv.org/abs/2411.12193)] [[poster](../assets/files/energy-week-wenbin-final.pdf)] [[technical report]()] [[executive report]()]<br/>
@@ -34,9 +34,9 @@ ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KD
 Featured in AES Indiana's [Integrated Resource Plan (IRP)](https://www.aesindiana.com/integrated-resource-plan), advisory meetings, and [public report](https://www.aesindiana.com/integrated-resource-plan), 2025.
 
 ## News
-- **[Oct 2024]** Gave a [talk](https://submissions.mirasmart.com/InformsAnnual2024/Itinerary/PresentationDetail.aspx?evdid=2036) and presented [poster](../assets/files/stcp-poster.pdf) at [2024 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/seattle2024/).
-- **[Aug 2024]** Gave an online [talk](https://youtu.be/zaxljiLN5Sc) on our accepted [paper](https://arxiv.org/abs/2408.00911) at BIOKDD 2024.
-- **[May 2024]** Interned at [Argonne National Laboratory](https://www.anl.gov/).
-- **[Mar 2024]** Served as a session co-chair for flash talks & posters at [YinzOR 2024](https://yinzor.cmuinforms.org/).
-- **[Oct 2023]** Our [paper](https://arxiv.org/abs/2305.15742) got accepted in the [Deep Generative Models for Health Workshop](https://neurips.cc/virtual/2023/workshop/66495) (spotlight) and the [Causal Representation Learning Workshop](https://crl-workshop.github.io/) at NeurIPS 2023.
-- **[Aug 2023]** Won first place for [poster](../assets/files/counterfactualposter.pdf) presentation in poster competition at [YinzOR 2023](https://yinzor.cmuinforms.org/2023/) [[media](https://www.heinz.cmu.edu/about/year-in-review/2023-year-in-review)].
+- **[Oct 2024]** Gave a [talk](https://submissions.mirasmart.com/InformsAnnual2024/Itinerary/PresentationDetail.aspx?evdid=2036) and presented [poster](../assets/files/stcp-poster.pdf) at [2024 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/seattle2024/), Seattle WA.
+- **[Aug 2024]** Gave an online talk on our accepted [paper](https://arxiv.org/abs/2408.00911) at BIOKDD 2024, Barcelona Spain.
+- **[May 2024]** Joined [Argonne National Laboratory](https://www.anl.gov/) as a research intern, Lemont IL.
+- **[Mar 2024]** Served as a session co-chair for flash talks & posters at [YinzOR 2024](https://yinzor.cmuinforms.org/), Pittsburgh PA.
+- **[Oct 2023]** Spotlight acceptance by the Neurips 2023 [Deep Generative Models for Health Workshop](https://neurips.cc/virtual/2023/workshop/66495) with our [paper](https://arxiv.org/abs/2305.15742), New Orleans LA.
+- **[Aug 2023]** Won first place for [poster](../assets/files/counterfactualposter.pdf) presentation in poster competition at [YinzOR 2023](https://yinzor.cmuinforms.org/2023/), Pittsburgh PA. [[media](https://www.heinz.cmu.edu/about/year-in-review/2023-year-in-review)]
