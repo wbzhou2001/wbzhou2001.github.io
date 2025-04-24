@@ -28,6 +28,7 @@ International Workshop on Data Mining in Bioinformatics (**BIOKDD**), 2024
 [[arXiv](https://arxiv.org/abs/2305.15742)] [[poster](../assets/files/kdd2024-poster.pdf)] [[code](https://github.com/ShenghaoWu/Counterfactual-Generative-Models)] [[media](https://www.heinz.cmu.edu/media/2023/October/new-models-improve-policy-impact-and-public-service-efficiency)] <br/>
 *Shenghao Wu, <u>Wenbin Zhou</u>, Minshuo Chen, and Shixiang Zhu* <br/>
 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD**), 2024
+🏆 **Spotlight**, NeurIPS 2023's [Deep Generative Models for Health Workshop](https://neurips.cc/virtual/2023/workshop/66495).
 
 ## Software
 <b>[1] [AES Indiana 2025-2050 EVPV Projection Dashboard]()</b> [[EV](https://wbzhou2001.github.io/EVPV-Dashboard/ev_dashboard.html)] [[PV](https://wbzhou2001.github.io/EVPV-Dashboard/pv_dashboard.html)] [[slides](../assets/files/evpv_slides.pdf)]<br/>
@@ -38,5 +39,4 @@ Featured in AES Indiana's [Integrated Resource Plan (IRP)](https://www.aesindian
 - **[Aug 2024]** Gave an online talk on our accepted [paper](https://arxiv.org/abs/2408.00911) at BIOKDD 2024, Barcelona Spain.
 - **[May 2024]** Joined [Argonne National Laboratory](https://www.anl.gov/) as a research intern, Lemont IL.
 - **[Mar 2024]** Served as a session co-chair for flash talks & posters at [YinzOR 2024](https://yinzor.cmuinforms.org/), Pittsburgh PA.
-- **[Oct 2023]** Spotlight acceptance by the Neurips 2023 [Deep Generative Models for Health Workshop](https://neurips.cc/virtual/2023/workshop/66495) with our [paper](https://arxiv.org/abs/2305.15742), New Orleans LA.
 - **[Aug 2023]** Won first place for [poster](../assets/files/counterfactualposter.pdf) presentation in poster competition at [YinzOR 2023](https://yinzor.cmuinforms.org/2023/), Pittsburgh PA. [[media](https://www.heinz.cmu.edu/about/year-in-review/2023-year-in-review)]
