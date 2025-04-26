@@ -28,7 +28,7 @@ International Workshop on Data Mining in Bioinformatics (**BIOKDD**), 2024
 [[arXiv](https://arxiv.org/abs/2305.15742)] [[poster](../assets/files/kdd2024-poster.pdf)] [[code](https://github.com/ShenghaoWu/Counterfactual-Generative-Models)] [[media](https://www.heinz.cmu.edu/media/2023/October/new-models-improve-policy-impact-and-public-service-efficiency)] <br/>
 *Shenghao Wu, <u>Wenbin Zhou</u>, Minshuo Chen, and Shixiang Zhu* <br/>
 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD**), 2024 <br/>
-🏆 **Oral**, NeurIPS 2023's [Deep Generative Models for Health Workshop](https://neurips.cc/virtual/2023/workshop/66495).
+🏆 **Spotlight**, NeurIPS 2023's [Deep Generative Models for Health Workshop](https://neurips.cc/virtual/2023/workshop/66495).
 
 ## Software
 <b>[1] [AES Indiana 2025-2050 EVPV Projection Dashboard]()</b> [[EV](https://wbzhou2001.github.io/EVPV-Dashboard/ev_dashboard.html)] [[PV](https://wbzhou2001.github.io/EVPV-Dashboard/pv_dashboard.html)] [[slides](../assets/files/evpv_slides.pdf)]<br/>
