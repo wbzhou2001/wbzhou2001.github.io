@@ -7,9 +7,6 @@ layout: homepage
 I am a Ph.D. student (2023-) in Machine Learning and Public Policy at [Carnegie Mellon University](https://www.cmu.edu/), advised by [Woody Zhu](https://sites.google.com/view/woodyzhu). Previously, I received my B.S. in Statistics at [University of Science and Technology of China](https://en.ustc.edu.cn/). My research interest lies in the intersection of **machine learning, statistics, and operations research**. 
 I work on probabilistic machine learning, uncertainty quantification, sequential modeling, and causal inference, with a focus on their applications in the operations and management of power systems, disaster response, and other high-risk events.
 
-decision making
-I am interested in uncertainty quantification and probabilistic modeling in sequential processes, with a focus on their role in robust decision-making in practice.
-
 ## Papers
 
 <b>[1] [Sequential Change Point Detection via Denoising Score Matching](http://arxiv.org/abs/2501.12667)</b> [[arXiv](http://arxiv.org/abs/2501.12667)] [[code](https://github.com/wbzhou2001/Denoising-Score-Change-Point-Detection)] <br/>
