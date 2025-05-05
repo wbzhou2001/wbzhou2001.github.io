@@ -11,7 +11,7 @@ I am interested in uncertainty quantification and probabilistic modeling in sequ
 
 <b>[1] [Sequential Change Point Detection via Denoising Score Matching](http://arxiv.org/abs/2501.12667)</b> [[arXiv](http://arxiv.org/abs/2501.12667)] [[code](https://github.com/wbzhou2001/Denoising-Score-Change-Point-Detection)] <br/>
 *<u>Wenbin Zhou</u>, Liyan Xie, Zhigang Peng and Shixiang Zhu* <br/>
-IEEE International Symposium on Information Theory (**ISIT**), Recent Results Session, 2025
+Submitted
 
 <b>[2] [Hierarchical Spatio-Temporal Uncertainty Quantification for Distributed Energy Adoption](https://arxiv.org/abs/2411.12193)</b> [[arXiv](https://arxiv.org/abs/2411.12193)] [[poster](../assets/files/energy-week-wenbin-final.pdf)][[executive report]()]<br/>
 *<u>Wenbin Zhou</u>, Shixiang Zhu, Feng Qiu and Xuan Wu* <br/>
@@ -23,7 +23,7 @@ International Conference on Artificial Intelligence and Statistics (**AISTATS**)
 
 <b>[4] [Distance-Preserving Spatial Representations in Genomic Data](https://arxiv.org/abs/2408.00911)</b> [[arXiv](https://arxiv.org/abs/2408.00911)] [[slides](../assets/files/biokdd2024-slides.pdf)] [[talk](https://youtu.be/zaxljiLN5Sc)]<br/>
 *<u>Wenbin Zhou</u> and Jin-Hong Du* <br/>
-International Workshop on Data Mining in Bioinformatics (**BIOKDD**), 2024
+Submitted
 
 <b>[5] [Counterfactual Generative Models for Time-varying Treatments](https://dl.acm.org/doi/10.1145/3637528.3671950)</b> 
 [[arXiv](https://arxiv.org/abs/2305.15742)] [[poster](../assets/files/kdd2024-poster.pdf)] [[code](https://github.com/ShenghaoWu/Counterfactual-Generative-Models)] [[media](https://www.heinz.cmu.edu/media/2023/October/new-models-improve-policy-impact-and-public-service-efficiency)] <br/>
