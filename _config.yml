@@ -22,7 +22,7 @@ linkedin: https://www.linkedin.com/in/wenbin-zhou-33462a270/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/phipps.jpg  # ./assets/img/charleston.jpg
+avatar: ./assets/img/profile-green.jpg  # ./assets/img/charleston.jpg
 favicon: ./assets/img/terrier.jpg
 favicon_dark: ./assets/img/terrier.jpg
 
