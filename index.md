@@ -39,7 +39,7 @@ Featured in AES Indiana's [Integrated Resource Plan (IRP)](https://www.aesindian
 - **[May 2025]** Gave a talk at the PSU-CMU energy workshop, Station College, PA.
 - **[Apr 2025]** Presented poster at the [SSA Annual Meeting 2025](https://meetings.seismosoc.org/), Baltimore, MD.
 - **[Oct 2024]** Gave a [talk](https://submissions.mirasmart.com/InformsAnnual2024/Itinerary/PresentationDetail.aspx?evdid=2036) and presented [poster](../assets/files/stcp-poster.pdf) at [2024 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/seattle2024/), Seattle WA.
-- **[Aug 2024]** Gave an online talk on our accepted [paper](https://arxiv.org/abs/2408.00911) at BIOKDD 2024, Barcelona Spain.
+- **[Aug 2024]** Gave an online talk on the accepted [paper](https://arxiv.org/abs/2408.00911) at BIOKDD 2024, Barcelona Spain.
 - **[May 2024]** Joined [Argonne National Laboratory](https://www.anl.gov/) as a research intern, Lemont IL.
 - **[Mar 2024]** Served as a session co-chair for flash talks & posters at [YinzOR 2024](https://yinzor.cmuinforms.org/), Pittsburgh PA.
 - **[Aug 2023]** Won first place for [poster](../assets/files/counterfactualposter.pdf) presentation in poster competition at [YinzOR 2023](https://yinzor.cmuinforms.org/2023/), Pittsburgh PA. [[media](https://www.heinz.cmu.edu/about/year-in-review/2023-year-in-review)]
