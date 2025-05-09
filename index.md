@@ -32,7 +32,7 @@ Submitted
 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD**), 2024 <br/>
 🏆 **Spotlight**, NeurIPS 2023's [Deep Generative Models for Health Workshop](https://neurips.cc/virtual/2023/workshop/66495).
 
-## News
+## Past News
 - **[May 2025]** Gave a talk at the PSU-CMU energy workshop, Station College, PA.
 - **[Apr 2025]** Presented poster at the [SSA Annual Meeting 2025](https://meetings.seismosoc.org/), Baltimore, MD.
 - **[Oct 2024]** Gave a [talk](https://submissions.mirasmart.com/InformsAnnual2024/Itinerary/PresentationDetail.aspx?evdid=2036) and presented [poster](../assets/files/stcp-poster.pdf) at [2024 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/seattle2024/), Seattle WA.
