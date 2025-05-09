@@ -7,6 +7,10 @@ layout: homepage
 I am a Ph.D. student (2023-) in Machine Learning and Public Policy at [Carnegie Mellon University](https://www.cmu.edu/), advised by [Woody Zhu](https://sites.google.com/view/woodyzhu). Previously, I received my B.S. in Statistics at [University of Science and Technology of China](https://en.ustc.edu.cn/). My research interest lies in the intersection of **machine learning, statistics, and operations research**. 
 I work on probabilistic machine learning, uncertainty quantification, sequential modeling, and causal inference, with a focus on their applications in the operations and management of power systems, disaster response, and other high-risk societal challenges.
 
+## Recent News
+- **[May 2025]** Gave a talk at the PSU-CMU energy workshop, Station College, PA.
+- **[Apr 2025]** Presented poster at the [SSA Annual Meeting 2025](https://meetings.seismosoc.org/), Baltimore, MD.
+
 ## Publications
 
 <b>[1] [Sequential Change Point Detection via Denoising Score Matching](http://arxiv.org/abs/2501.12667)</b> [[arXiv](http://arxiv.org/abs/2501.12667)] [[code](https://github.com/wbzhou2001/Denoising-Score-Change-Point-Detection)] <br/>
@@ -33,8 +37,6 @@ ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KD
 🏆 **Spotlight**, NeurIPS 2023's [Deep Generative Models for Health Workshop](https://neurips.cc/virtual/2023/workshop/66495).
 
 ## Past News
-- **[May 2025]** Gave a talk at the PSU-CMU energy workshop, Station College, PA.
-- **[Apr 2025]** Presented poster at the [SSA Annual Meeting 2025](https://meetings.seismosoc.org/), Baltimore, MD.
 - **[Oct 2024]** Gave a [talk](https://submissions.mirasmart.com/InformsAnnual2024/Itinerary/PresentationDetail.aspx?evdid=2036) and presented [poster](../assets/files/stcp-poster.pdf) at [2024 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/seattle2024/), Seattle WA.
 - **[Aug 2024]** Gave an online talk on the accepted [paper](https://arxiv.org/abs/2408.00911) at BIOKDD 2024, Barcelona Spain.
 - **[May 2024]** Joined [Argonne National Laboratory](https://www.anl.gov/) as a research intern, Lemont IL.
