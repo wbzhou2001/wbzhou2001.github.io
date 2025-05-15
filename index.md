@@ -13,7 +13,7 @@ I work on probabilistic machine learning, uncertainty quantification, sequential
 
 ## Publications
 
-<b>[1] [Conformalized Decision Risk Assessment]()</b> <br/> [[poster]()]
+<b>[1] [Conformalized Decision Risk Assessment]()</b> [[poster]()] <br/>
 *<u>Wenbin Zhou</u>, Agni Orfanoudaki, Shixiang Zhu* <br/>
 
 <b>[2] [Sequential Change Point Detection via Denoising Score Matching](http://arxiv.org/abs/2501.12667)</b> [[arXiv](http://arxiv.org/abs/2501.12667)] [[code](https://github.com/wbzhou2001/Denoising-Score-Change-Point-Detection)] <br/>
