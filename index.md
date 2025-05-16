@@ -24,7 +24,7 @@ I work on probabilistic machine learning, uncertainty quantification, sequential
 IEEE Power & Energy Society General Meeting (**PESGM**), 2025 <br/>
 🧑‍💻 Featured in AES Indiana's 2025 Integrated Resource Plan (IRP). [[EV](https://wbzhou2001.github.io/EVPV-Dashboard/ev_dashboard.html)] [[PV](https://wbzhou2001.github.io/EVPV-Dashboard/pv_dashboard.html)] [[slides](../assets/files/evpv_slides.pdf)]
 
-<b>[4] [Recurrent Neural Goodness-of-Fit Test for Time Series](https://arxiv.org/abs/2410.13986)</b> [[arXiv](https://arxiv.org/abs/2410.13986)] [[poster](../assets/files/renal-poster.pdf)] [[code](https://github.com/aoranzhangmia/Neural-GoF-Time)]<br/>
+<b>[4] [Recurrent Neural Goodness-of-Fit Test for Time Series](https://arxiv.org/abs/2410.13986)</b> [[arXiv](https://arxiv.org/abs/2410.13986)] [[poster](https://drive.google.com/file/d/1u5awWigjt2fy74H6yuGstfhT37WWM9xS/view)] [[code](https://github.com/aoranzhangmia/Neural-GoF-Time)]<br/>
 *Aoran Zhang, <u>Wenbin Zhou</u>, Liyan Xie and Shixiang Zhu* <br/>
 International Conference on Artificial Intelligence and Statistics (**AISTATS**), 2025
 
