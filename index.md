@@ -21,6 +21,7 @@ I work on probabilistic machine learning, uncertainty quantification, sequential
 
 <b>[3] [Hierarchical Spatio-Temporal Uncertainty Quantification for Distributed Energy Adoption](https://arxiv.org/abs/2411.12193)</b> [[arXiv](https://arxiv.org/abs/2411.12193)] [[poster](../assets/files/energy-week-wenbin-final.pdf)]<br/>
 *<u>Wenbin Zhou</u>, Shixiang Zhu, Feng Qiu and Xuan Wu* <br/>
+Submitted <br/>
 IEEE Power & Energy Society General Meeting (**PESGM**), 2025 <br/>
 🏆 **Best paper award**, IEEE Power & Energy Society <br/>
 🧑‍💻 Featured in AES Indiana's 2025 Integrated Resource Plan (IRP). [[EV](https://wbzhou2001.github.io/EVPV-Dashboard/ev_dashboard.html)] [[PV](https://wbzhou2001.github.io/EVPV-Dashboard/pv_dashboard.html)] [[slides](../assets/files/evpv_slides.pdf)]
