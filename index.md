@@ -18,6 +18,7 @@ I work on probabilistic machine learning, uncertainty quantification, sequential
 
 <b>[2] [Sequential Change Point Detection via Denoising Score Matching](http://arxiv.org/abs/2501.12667)</b> [[arXiv](http://arxiv.org/abs/2501.12667)] [[code](https://github.com/wbzhou2001/Denoising-Score-Change-Point-Detection)] <br/>
 *<u>Wenbin Zhou</u>, Liyan Xie, Zhigang Peng and Shixiang Zhu* <br/>
+Allerton Conference on Communication, Control, and Computing, 2025 <br/>
 
 <b>[3] [Hierarchical Spatio-Temporal Uncertainty Quantification for Distributed Energy Adoption](https://arxiv.org/abs/2411.12193)</b> [[arXiv](https://arxiv.org/abs/2411.12193)] [[poster](../assets/files/energy-week-wenbin-final.pdf)]<br/>
 *<u>Wenbin Zhou</u>, Shixiang Zhu, Feng Qiu and Xuan Wu* <br/>
