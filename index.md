@@ -43,7 +43,7 @@ ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KD
 
 ## Past News
 - **[Apr 2025]** Attended [SSA Annual Meeting 2025](https://meetings.seismosoc.org/), Baltimore, MD.
-- **[Oct 2024]** Gave a [talk](https://submissions.mirasmart.com/InformsAnnual2024/Itinerary/PresentationDetail.aspx?evdid=2036) and presented [poster](../assets/files/stcp-poster.pdf) at [2024 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/seattle2024/), Seattle WA.
+- **[Oct 2024]** Gave a [talk](https://submissions.mirasmart.com/InformsAnnual2024/Itinerary/PresentationDetail.aspx?evdid=2036) and [poster](../assets/files/stcp-poster.pdf) presentation at [2024 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/seattle2024/), Seattle WA.
 - **[Aug 2024]** Gave an online talk on the accepted [paper](https://arxiv.org/abs/2408.00911) at BIOKDD 2024, Barcelona Spain.
 - **[May 2024]** Joined [Argonne National Laboratory](https://www.anl.gov/) as a research intern, Lemont IL.
 - **[Mar 2024]** Served as a session co-chair for flash talks & posters at [YinzOR 2024](https://yinzor.cmuinforms.org/), Pittsburgh PA.
