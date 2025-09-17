@@ -36,7 +36,7 @@ International Conference on Artificial Intelligence and Statistics (**AISTATS**)
 <b>[5] [Distance-Preserving Spatial Representations in Genomic Data](https://arxiv.org/abs/2408.00911)</b> [[arXiv](https://arxiv.org/abs/2408.00911)] [[slides](../assets/files/biokdd2024-slides.pdf)] [[video](https://youtu.be/zaxljiLN5Sc)]<br/>
 *<u>Wenbin Zhou</u> and Jin-Hong Du* <br/>
 Under major revision <br/>
-📄Preliminary version accepted by [BIOKDD 2024](https://biokdd.org/biokdd24/).
+📄Preliminary version accepted by [International Workshop on Data Mining in Bioinformatics, 2024](https://biokdd.org/biokdd24/).
 
 <b>[6] [Counterfactual Generative Models for Time-varying Treatments](https://dl.acm.org/doi/10.1145/3637528.3671950)</b> 
 [[arXiv](https://arxiv.org/abs/2305.15742)] [[poster](../assets/files/kdd2024-poster.pdf)] [[code](https://github.com/ShenghaoWu/Counterfactual-Generative-Models)] [[media](https://www.heinz.cmu.edu/media/2023/October/new-models-improve-policy-impact-and-public-service-efficiency)] <br/>
