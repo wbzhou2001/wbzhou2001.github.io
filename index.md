@@ -42,7 +42,7 @@ Under major revision <br/>
 [[arXiv](https://arxiv.org/abs/2305.15742)] [[poster](../assets/files/kdd2024-poster.pdf)] [[code](https://github.com/ShenghaoWu/Counterfactual-Generative-Models)] [[media](https://www.heinz.cmu.edu/media/2023/October/new-models-improve-policy-impact-and-public-service-efficiency)] <br/>
 *Shenghao Wu, <u>Wenbin Zhou</u>, Minshuo Chen, and Shixiang Zhu* <br/>
 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD**), 2024 <br/>
-🏆 **Spotlight**, NeurIPS 2023's [Deep Generative Models for Health Workshop](https://neurips.cc/virtual/2023/workshop/66495).
+🏆 **Spotlight**, [Deep Generative Models for Health Workshop](https://neurips.cc/virtual/2023/workshop/66495) at NeurIPS 2023.
 
 ## Past News
 - **[Apr 2025]** Attended [SSA Annual Meeting 2025](https://meetings.seismosoc.org/), Baltimore, MD.
