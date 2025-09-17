@@ -9,7 +9,7 @@ I work on probabilistic machine learning, uncertainty quantification, sequential
 
 ## Recent News
 - **[Sept 2025]** [Paper](https://arxiv.org/abs/2411.12193) selected as finalist in the INFORMS DMDA Workshop Best Paper Competition, 2025.
-- **[Aug 2025]** Won first place in [poster](../assets/files/credo-poster.pdf) competition at [YinzOR 2025](https://yinzor.cmuinforms.org/2025/), Pittsburgh PA
+- **[Aug 2025]** Won first place in [poster](../assets/files/credo-poster.pdf) competition at [YinzOR 2025](https://yinzor.cmuinforms.org/2025/), Pittsburgh PA.
 - **[May 2025]** Gave a talk at the PSU-CMU energy workshop, Station College, PA.
 
 ## Publications
