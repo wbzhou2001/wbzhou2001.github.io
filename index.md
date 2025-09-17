@@ -27,7 +27,7 @@ Journal version submitted<br/>
 IEEE Power & Energy Society General Meeting (**PESGM**), 2025 <br/>
 🏆 **Best paper award**, IEEE Power & Energy Society. <br/>
 🏆 **Finalist**, INFORMS DMDA Workshop Best Paper Competition (Applied Track), 2025. <br/>
-🧑‍💻 Featured in AES Indiana's 2025 Integrated Resource Plan (IRP). [[EV](https://wbzhou2001.github.io/EVPV-Dashboard/ev_dashboard.html)] [[PV](https://wbzhou2001.github.io/EVPV-Dashboard/pv_dashboard.html)] [[slides](../assets/files/evpv_slides.pdf)]
+📄 Featured in AES Indiana's 2025 Integrated Resource Plan (IRP). [[EV](https://wbzhou2001.github.io/EVPV-Dashboard/ev_dashboard.html)] [[PV](https://wbzhou2001.github.io/EVPV-Dashboard/pv_dashboard.html)] [[slides](../assets/files/evpv_slides.pdf)]
 
 <b>[4] [Recurrent Neural Goodness-of-Fit Test for Time Series](https://arxiv.org/abs/2410.13986)</b> [[arXiv](https://arxiv.org/abs/2410.13986)] [[poster](https://drive.google.com/file/d/1u5awWigjt2fy74H6yuGstfhT37WWM9xS/view)] [[code](https://github.com/aoranzhangmia/Neural-GoF-Time)]<br/>
 *Aoran Zhang, <u>Wenbin Zhou</u>, Liyan Xie and Shixiang Zhu* <br/>
@@ -35,7 +35,8 @@ International Conference on Artificial Intelligence and Statistics (**AISTATS**)
 
 <b>[5] [Distance-Preserving Spatial Representations in Genomic Data](https://arxiv.org/abs/2408.00911)</b> [[arXiv](https://arxiv.org/abs/2408.00911)] [[slides](../assets/files/biokdd2024-slides.pdf)] [[video](https://youtu.be/zaxljiLN5Sc)]<br/>
 *<u>Wenbin Zhou</u> and Jin-Hong Du* <br/>
-Under major revision
+Under major revision <br/>
+📄Preliminary version accepted by [BIOKDD 2024](https://biokdd.org/biokdd24/).
 
 <b>[6] [Counterfactual Generative Models for Time-varying Treatments](https://dl.acm.org/doi/10.1145/3637528.3671950)</b> 
 [[arXiv](https://arxiv.org/abs/2305.15742)] [[poster](../assets/files/kdd2024-poster.pdf)] [[code](https://github.com/ShenghaoWu/Counterfactual-Generative-Models)] [[media](https://www.heinz.cmu.edu/media/2023/October/new-models-improve-policy-impact-and-public-service-efficiency)] <br/>
