@@ -16,6 +16,7 @@ I work on probabilistic machine learning, uncertainty quantification, sequential
 
 <b>[1] [Conformalized Decision Risk Assessment](https://arxiv.org/abs/2505.13243)</b> [[arXiv](https://arxiv.org/abs/2505.13243)] [[poster](../assets/files/credo-poster.pdf)] [[video](https://youtu.be/n65D4EAKlgU)] <br/>
 *<u>Wenbin Zhou</u>, Agni Orfanoudaki, Shixiang Zhu* <br/>
+📄Short version accepted by [NeurIPS MLxOR Workshop](https://biokdd.org/biokdd24/).
 
 <b>[2] [Sequential Change Point Detection via Denoising Score Matching](http://arxiv.org/abs/2501.12667)</b> [[arXiv](http://arxiv.org/abs/2501.12667)] [[code](https://github.com/wbzhou2001/Denoising-Score-Change-Point-Detection)] [[poster](../assets/files/ssa_poster.pdf)]<br/>
 *<u>Wenbin Zhou</u>, Liyan Xie, Zhigang Peng and Shixiang Zhu* <br/>
@@ -36,7 +37,7 @@ International Conference on Artificial Intelligence and Statistics (**AISTATS**)
 <b>[5] [Distance-Preserving Spatial Representations in Genomic Data](https://arxiv.org/abs/2408.00911)</b> [[arXiv](https://arxiv.org/abs/2408.00911)] [[slides](../assets/files/biokdd2024-slides.pdf)] [[video](https://youtu.be/zaxljiLN5Sc)]<br/>
 *<u>Wenbin Zhou</u> and Jin-Hong Du* <br/>
 Under major revision <br/>
-📄Preliminary version accepted by [23rd International Workshop on Data Mining in Bioinformatics](https://biokdd.org/biokdd24/).
+📄Short version accepted by [23rd International Workshop on Data Mining in Bioinformatics](https://biokdd.org/biokdd24/).
 
 <b>[6] [Counterfactual Generative Models for Time-varying Treatments](https://dl.acm.org/doi/10.1145/3637528.3671950)</b> 
 [[arXiv](https://arxiv.org/abs/2305.15742)] [[poster](../assets/files/kdd2024-poster.pdf)] [[code](https://github.com/ShenghaoWu/Counterfactual-Generative-Models)] [[media](https://www.heinz.cmu.edu/media/2023/October/new-models-improve-policy-impact-and-public-service-efficiency)] <br/>
