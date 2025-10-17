@@ -16,8 +16,6 @@ I work on probabilistic machine learning, uncertainty quantification, sequential
 
 ## Publications
 
-https://arxiv.org/abs/2510.07750
-
 <b>[1] [When robustness meets conservativeness: Conformalized uncertainty calibration for balanced decision making](https://arxiv.org/abs/2510.07750)</b> [[arXiv](https://arxiv.org/abs/2510.07750)] <br/>
 *<u>Wenbin Zhou</u>, Shixiang Zhu* <br/>
 
