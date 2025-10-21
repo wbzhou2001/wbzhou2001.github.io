@@ -10,7 +10,7 @@ Previously, I received my B.S. in Statistics at [University of Science and Techn
 
 ## Recent News
 - **[Oct 2025]** Gave a talk at the [CEIC Advisory Committee Meeting](https://www.cmu.edu/ceic/).
-- **[Sept 2025]** Presented [poster](../assets/files/credo-poster.pdf) at the [Human-AI Complementary for Decision Making](https://www.cmu.edu/ai-sdm/research/human-ai-workshop/index.html) workshop by [NSF AI-SDM](https://www.cmu.edu/ai-sdm/index.html).
+- **[Sept 2025]** Gave a [poster](../assets/files/credo-poster.pdf) presentation at the [Human-AI Complementary for Decision Making](https://www.cmu.edu/ai-sdm/research/human-ai-workshop/index.html) workshop by [NSF AI-SDM](https://www.cmu.edu/ai-sdm/index.html).
 - **[Aug 2025]** Won first place in [poster](../assets/files/credo-poster.pdf) competition at [YinzOR 2025](https://yinzor.cmuinforms.org/2025/), Pittsburgh PA.
 - **[May 2025]** Gave a talk at the PSU-CMU energy workshop, Station College, PA.
 
