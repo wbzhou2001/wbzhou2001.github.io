@@ -33,7 +33,7 @@ Allerton Conference on Communication, Control, and Computing, 2025 <br/>
 *<u>Wenbin Zhou</u>, Shixiang Zhu, Feng Qiu and Xuan Wu* <br/>
 Journal version submitted<br/>
 IEEE Power & Energy Society General Meeting (**PESGM**), 2025 <br/>
-🏆 **Second place**, INFORMS DMDA Workshop Best Paper Competition (Applied Track), 2025. <br/>
+🏆 **Second place**, INFORMS Data Mining Best Applied Paper, 2025. <br/>
 🏆 **Best paper award**, IEEE Power & Energy Society. <br/>
 To appear in AES Indiana's 2025 Integrated Resource Plan (IRP). [[EV](https://wbzhou2001.github.io/EVPV-Dashboard/ev_dashboard.html)] [[PV](https://wbzhou2001.github.io/EVPV-Dashboard/pv_dashboard.html)] [[slides](../assets/files/evpv_slides.pdf)]
 
