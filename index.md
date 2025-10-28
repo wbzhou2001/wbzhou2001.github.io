@@ -9,6 +9,7 @@ I work on probabilistic machine learning, uncertainty quantification, sequential
 Previously, I received my B.S. in Statistics at [University of Science and Technology of China](https://en.ustc.edu.cn/).
 
 ## Recent News
+- **[Oct 2025]** Gave three talks at the INFORMS Annual Meeting 2025, Atlanta, GA.
 - **[Oct 2025]** Gave a talk at the [CEIC Advisory Committee Meeting](https://www.cmu.edu/ceic/).
 - **[Sept 2025]** Gave a [poster](../assets/files/credo-poster.pdf) presentation at the [Human-AI Complementary for Decision Making](https://www.cmu.edu/ai-sdm/research/human-ai-workshop/index.html) workshop by [NSF AI-SDM](https://www.cmu.edu/ai-sdm/index.html).
 - **[Aug 2025]** Won first place in [poster](../assets/files/credo-poster.pdf) competition at [YinzOR 2025](https://yinzor.cmuinforms.org/2025/), Pittsburgh PA.
@@ -41,8 +42,7 @@ International Conference on Artificial Intelligence and Statistics (**AISTATS**)
 
 <b>[6] [Distance-Preserving Spatial Representations in Genomic Data](https://arxiv.org/abs/2408.00911)</b> [[arXiv](https://arxiv.org/abs/2408.00911)] [[slides](../assets/files/biokdd2024-slides.pdf)] [[video](https://youtu.be/zaxljiLN5Sc)]<br/>
 *<u>Wenbin Zhou</u> and Jin-Hong Du* <br/>
-Under major revision <br/>
-Short version accepted by [23rd International Workshop on Data Mining in Bioinformatics](https://biokdd.org/biokdd24/).
+IEEE Transactions on Computational Biology and Bioinformatics <br/>
 
 <b>[7] [Counterfactual Generative Models for Time-varying Treatments](https://dl.acm.org/doi/10.1145/3637528.3671950)</b> 
 [[arXiv](https://arxiv.org/abs/2305.15742)] [[poster](../assets/files/kdd2024-poster.pdf)] [[code](https://github.com/ShenghaoWu/Counterfactual-Generative-Models)] [[media](https://www.heinz.cmu.edu/media/2023/October/new-models-improve-policy-impact-and-public-service-efficiency)] <br/>
