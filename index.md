@@ -23,7 +23,6 @@ Previously, I received my B.S. in Statistics at [University of Science and Techn
 
 <b>[2] [Conformalized Decision Risk Assessment](https://arxiv.org/abs/2505.13243)</b> [[arXiv](https://arxiv.org/abs/2505.13243)] [[poster](../assets/files/credo-poster.pdf)] [[video](https://youtu.be/n65D4EAKlgU)] <br/>
 *<u>Wenbin Zhou</u>, Agni Orfanoudaki, Shixiang Zhu* <br/>
-Short version accepted by [MLxOR Workshop](https://mlxor-workshop.github.io/) at NeurIPS 2025.
 
 <b>[3] [Sequential Change Point Detection via Denoising Score Matching](http://arxiv.org/abs/2501.12667)</b> [[arXiv](http://arxiv.org/abs/2501.12667)] [[code](https://github.com/wbzhou2001/Denoising-Score-Change-Point-Detection)] [[poster](../assets/files/ssa_poster.pdf)]<br/>
 *<u>Wenbin Zhou</u>, Liyan Xie, Zhigang Peng and Shixiang Zhu* <br/>
