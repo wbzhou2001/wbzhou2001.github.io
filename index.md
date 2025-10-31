@@ -33,7 +33,7 @@ Previously, I received my B.S. in Statistics at [University of Science and Techn
 Journal version submitted<br/>
 🏆 **Second place**, INFORMS Data Mining Best Applied Paper, 2025. <br/>
 🏆 **Best paper award**, IEEE Power & Energy Society. <br/>
-To appear in AES Indiana's 2025 Integrated Resource Plan (IRP). [[EV](https://wbzhou2001.github.io/EVPV-Dashboard/ev_dashboard.html)] [[PV](https://wbzhou2001.github.io/EVPV-Dashboard/pv_dashboard.html)] [[slides](../assets/files/evpv_slides.pdf)]
+Featured AES Indiana's 2025 Integrated Resource Plan (IRP). [[IRP](https://www.aesindiana.com/integrated-resource-plan)][[EV](https://wbzhou2001.github.io/EVPV-Dashboard/ev_dashboard.html)] [[PV](https://wbzhou2001.github.io/EVPV-Dashboard/pv_dashboard.html)] [[slides](../assets/files/evpv_slides.pdf)]
 
 <b>[5] [Recurrent Neural Goodness-of-Fit Test for Time Series](https://arxiv.org/abs/2410.13986)</b> [[arXiv](https://arxiv.org/abs/2410.13986)] [[poster](https://drive.google.com/file/d/1u5awWigjt2fy74H6yuGstfhT37WWM9xS/view)] [[code](https://github.com/aoranzhangmia/Neural-GoF-Time)]<br/>
 *Aoran Zhang, <u>Wenbin Zhou</u>, Liyan Xie and Shixiang Zhu* <br/>
