@@ -28,11 +28,11 @@ Previously, I received my B.S. in Statistics at [University of Science and Techn
 *<u>Wenbin Zhou</u>, Liyan Xie, Zhigang Peng and Shixiang Zhu* <br/>
 **Allerton Conference on Communication, Control, and Computing, 2025** <br/>
 
-<b>[4] [Hierarchical Spatio-Temporal Uncertainty Quantification for Distributed Energy Adoption](https://arxiv.org/abs/2411.12193)</b> [[arXiv](https://arxiv.org/abs/2411.12193)] [[poster](../assets/files/energy-week-wenbin-final.pdf)] [[news](https://www.heinz.cmu.edu/media/2025/September/new-model-forecasts-renewable-growth-for-distributed-energy-resources)]<br/>
-*<u>Wenbin Zhou</u>, Shixiang Zhu, Feng Qiu and Xuan Wu* <br/>
+<b>[4] [Hierarchical Probabilstic Conformal Prediction for Distributed Energy Adoption](https://arxiv.org/abs/2411.12193)</b> [[arXiv]()] [[news](https://www.heinz.cmu.edu/media/2025/September/new-model-forecasts-renewable-growth-for-distributed-energy-resources)]<br/>
+*<u>Wenbin Zhou</u> and Shixiang Zhu* <br/>
 Journal version submitted<br/>
 🏆 **Second place**, INFORMS Data Mining Best Applied Paper, 2025. <br/>
-🏆 **Best paper award**, IEEE Power & Energy Society. <br/>
+🏆 **Best paper award**, IEEE Power & Energy Society (Awarded to [short version](https://arxiv.org/abs/2411.12193)). <br/>
 Featured in AES Indiana's 2025 Integrated Resource Plan (IRP). [[IRP](https://www.aesindiana.com/integrated-resource-plan)] [[EV](https://wbzhou2001.github.io/EVPV-Dashboard/ev_dashboard.html)] [[PV](https://wbzhou2001.github.io/EVPV-Dashboard/pv_dashboard.html)] [[slides](../assets/files/evpv_slides.pdf)]
 
 <b>[5] [Recurrent Neural Goodness-of-Fit Test for Time Series](https://arxiv.org/abs/2410.13986)</b> [[arXiv](https://arxiv.org/abs/2410.13986)] [[poster](https://drive.google.com/file/d/1u5awWigjt2fy74H6yuGstfhT37WWM9xS/view)] [[code](https://github.com/aoranzhangmia/Neural-GoF-Time)]<br/>
