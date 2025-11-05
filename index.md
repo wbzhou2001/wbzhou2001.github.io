@@ -30,7 +30,6 @@ Previously, I received my B.S. in Statistics at [University of Science and Techn
 
 <b>[4] [Hierarchical Probabilstic Conformal Prediction for Distributed Energy Adoption](https://arxiv.org/abs/2411.12193)</b> [[arXiv]()] [[news](https://www.heinz.cmu.edu/media/2025/September/new-model-forecasts-renewable-growth-for-distributed-energy-resources)]<br/>
 *<u>Wenbin Zhou</u> and Shixiang Zhu* <br/>
-Journal version submitted<br/>
 🏆 **Second place**, INFORMS Data Mining Best Applied Paper, 2025. <br/>
 🏆 **Best paper award**, IEEE Power & Energy Society (Awarded to [short version](https://arxiv.org/abs/2411.12193)). <br/>
 Featured in AES Indiana's 2025 Integrated Resource Plan (IRP). [[IRP](https://www.aesindiana.com/integrated-resource-plan)] [[EV](https://wbzhou2001.github.io/EVPV-Dashboard/ev_dashboard.html)] [[PV](https://wbzhou2001.github.io/EVPV-Dashboard/pv_dashboard.html)] [[slides](../assets/files/evpv_slides.pdf)]
