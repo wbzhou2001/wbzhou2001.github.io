@@ -5,8 +5,8 @@ layout: homepage
 ## Welcome!
 
 I am a Ph.D. student (2023-) in Machine Learning and Public Policy at [Carnegie Mellon University](https://www.cmu.edu/), advised by [Woody Zhu](https://www.andrew.cmu.edu/user/shixianz/index.html). My research interest lies in the intersection of **machine learning, statistics, and operations research**. 
-I work on addressing decision-making under uncertainty problems through the lens of probabilistic machine learning, uncertainty quantification, and sequential modeling.
-My application areas focus on the operations and management of power systems, natural disasters, and other high-risk societal challenges.
+I work on algorithmics for data-driven decision-making, with a focus on uncertainty, humans, and spatio-temporal systems.
+My works are applied to the management of energy resources, natural disasters, and other high-risk societal challenges.
 Previously, I received my B.S. in Statistics at [University of Science and Technology of China](https://en.ustc.edu.cn/).
 
 ## Recent News
