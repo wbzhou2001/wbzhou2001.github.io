@@ -6,7 +6,7 @@ layout: homepage
 
 I am a Ph.D. student (2023-) in Machine Learning and Public Policy at [Carnegie Mellon University](https://www.cmu.edu/), advised by [Woody Zhu](https://www.andrew.cmu.edu/user/shixianz/index.html). My research interest lies in the intersection of **machine learning, statistics, and operations research**. 
 I work on algorithmics for data-driven decision-making, with a focus on uncertainty, humans, and spatio-temporal systems.
-My works are applied to the management of energy resources, natural disasters, and other high-risk societal challenges.
+Many of my works are applied to the management of energy resources, natural disasters, and other high-risk societal challenges.
 Previously, I received my B.S. in Statistics at [University of Science and Technology of China](https://en.ustc.edu.cn/).
 
 ## Recent News
@@ -31,7 +31,7 @@ Previously, I received my B.S. in Statistics at [University of Science and Techn
 <b>[4] [Hierarchical Probabilstic Conformal Prediction for Distributed Energy Adoption](https://arxiv.org/abs/2411.12193)</b> [[arXiv]()] [[news](https://www.heinz.cmu.edu/media/2025/September/new-model-forecasts-renewable-growth-for-distributed-energy-resources)]<br/>
 *<u>Wenbin Zhou</u> and Shixiang Zhu* <br/>
 🏆 **Second place**, INFORMS Data Mining Best Applied Paper, 2025. <br/>
-🏆 **Best paper award**, IEEE Power & Energy Society (awarded to [short version](https://arxiv.org/abs/2411.12193)). <br/>
+🏆 **Best paper award**, IEEE Power & Energy Society (awarded to [short version](https://ieeexplore.ieee.org/document/11225027)). <br/>
 Featured in AES Indiana's 2025 Integrated Resource Plan (IRP). [[IRP](https://www.aesindiana.com/integrated-resource-plan)] [[EV](https://wbzhou2001.github.io/EVPV-Dashboard/ev_dashboard.html)] [[PV](https://wbzhou2001.github.io/EVPV-Dashboard/pv_dashboard.html)] [[slides](../assets/files/evpv_slides.pdf)]
 
 <b>[5] [Recurrent Neural Goodness-of-Fit Test for Time Series](https://arxiv.org/abs/2410.13986)</b> [[arXiv](https://arxiv.org/abs/2410.13986)] [[poster](https://drive.google.com/file/d/1u5awWigjt2fy74H6yuGstfhT37WWM9xS/view)] [[code](https://github.com/aoranzhangmia/Neural-GoF-Time)]<br/>
