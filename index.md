@@ -19,7 +19,7 @@ Previously, I received my B.S. in Statistics at [University of Science and Techn
 ## Publications
 
 <b>[1] [Impact of power outages on the adoption of residential solar photovoltaics in a changing climate]()</b> [[SSRN]()] <br/>
-*Jiashu Zhu, <u>Wenbin Zhou</u>, Laura Diaz Anandon, Shixiang Zhu* <br/>
+*Jiashu Zhu, <u>Wenbin Zhou</u>, Laura Diaz Anadon, Shixiang Zhu* <br/>
 
 <b>[2] [When robustness meets conservativeness: Conformalized uncertainty calibration for balanced decision making](https://arxiv.org/abs/2510.07750)</b> [[arXiv](https://arxiv.org/abs/2510.07750)] <br/>
 *<u>Wenbin Zhou</u> and Shixiang Zhu* <br/>
