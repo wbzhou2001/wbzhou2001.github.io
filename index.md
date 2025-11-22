@@ -4,8 +4,8 @@ layout: homepage
 
 ## Welcome!
 
-I am a Ph.D. student (2023-) in Machine Learning and Public Policy at [Carnegie Mellon University](https://www.cmu.edu/), advised by [Woody Zhu](https://www.andrew.cmu.edu/user/shixianz/index.html). My research interest lies in the intersection of **machine learning, statistics, and operations research**. 
-I work on algorithmics for data-driven decision-making, with a focus on uncertainty, humans, and spatio-temporal systems.
+I am a Ph.D. student (2023-) in Machine Learning and Public Policy at [Carnegie Mellon University](https://www.cmu.edu/), advised by [Woody Zhu](https://www.andrew.cmu.edu/user/shixianz/index.html). My research lies in the intersection of **machine learning, statistics, and operations research**. 
+I am interested in studying algorithmics for data-driven decision-making, with a focus on three aspects: uncertainty, humans, and spatio-temporal settings.
 Many of my works are applied to the management of energy resources, natural disasters, and other high-risk societal challenges.
 Previously, I received my B.S. in Statistics at [University of Science and Technology of China](https://en.ustc.edu.cn/).
 
