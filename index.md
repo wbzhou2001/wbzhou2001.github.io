@@ -41,7 +41,7 @@ Featured in AES Indiana's 2025 Integrated Resource Plan (IRP). [[IRP](https://ww
 *Aoran Zhang, <u>Wenbin Zhou</u>, Liyan Xie, Shixiang Zhu* <br/>
 **International Conference on Artificial Intelligence and Statistics (AISTATS), 2025** <br/>
 
-<b>[7] [Distance-Preserving Spatial Representations in Genomic Data](https://arxiv.org/abs/2408.00911)</b> [[arXiv](https://arxiv.org/abs/2408.00911)] [[slides](../assets/files/biokdd2024-slides.pdf)] [[video](https://youtu.be/zaxljiLN5Sc)]<br/>
+<b>[7] [Distance-Preserving Spatial Representations in Genomic Data](https://ieeexplore.ieee.org/document/11224845)</b> [[arXiv](https://arxiv.org/abs/2408.00911)] [[slides](../assets/files/biokdd2024-slides.pdf)] [[video](https://youtu.be/zaxljiLN5Sc)]<br/>
 *<u>Wenbin Zhou</u> and Jin-Hong Du* <br/>
 **IEEE/ACM Transactions on Computational Biology and Bioinformatics** <br/>
 
