@@ -27,7 +27,7 @@ Previously, I received my B.S. in Statistics at [University of Science and Techn
 <b>[3] [Conformalized Decision Risk Assessment](https://arxiv.org/abs/2505.13243)</b> [[arXiv](https://arxiv.org/abs/2505.13243)] [[poster](../assets/files/credo-poster.pdf)] [[video](https://youtu.be/n65D4EAKlgU)] <br/>
 *<u>Wenbin Zhou</u>, Agni Orfanoudaki, Shixiang Zhu* <br/>
 
-<b>[4] [Sequential Change Point Detection via Denoising Score Matching](http://arxiv.org/abs/2501.12667)</b> [[arXiv](http://arxiv.org/abs/2501.12667)] [[code](https://github.com/wbzhou2001/Denoising-Score-Change-Point-Detection)] [[poster](../assets/files/ssa_poster.pdf)]<br/>
+<b>[4] [Sequential Change Point Detection via Denoising Score Matching](https://www.ideals.illinois.edu/items/137311)</b> [[arXiv](http://arxiv.org/abs/2501.12667)] [[code](https://github.com/wbzhou2001/Denoising-Score-Change-Point-Detection)] [[poster](../assets/files/ssa_poster.pdf)]<br/>
 *<u>Wenbin Zhou</u>, Liyan Xie, Zhigang Peng, Shixiang Zhu* <br/>
 **Allerton Conference on Communication, Control, and Computing, 2025** <br/>
 
