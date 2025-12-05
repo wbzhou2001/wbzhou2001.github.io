@@ -6,7 +6,7 @@ layout: homepage
 
 I am a Ph.D. student (2023-) in Machine Learning and Public Policy at [Carnegie Mellon University](https://www.cmu.edu/), advised by [Woody Zhu](https://www.andrew.cmu.edu/user/shixianz/index.html). My research lies in the intersection of **machine learning, statistics, and operations research**. 
 I am interested in studying algorithmics for data-driven decision-making, with a focus on three aspects: uncertainty, humans, and spatio-temporal settings.
-My works are motivated and applied to domains such as energy resources managmement, natural disasters, and other high-risk societal problems.
+My works are motivated and applied to domains such as energy resources management, natural disasters, and other high-risk societal problems.
 Previously, I received my B.S. in Statistics at [University of Science and Technology of China](https://en.ustc.edu.cn/).
 
 ## Recent News
@@ -18,7 +18,7 @@ Previously, I received my B.S. in Statistics at [University of Science and Techn
 
 ## Publications
 
-<b>[1] [Impact of power outages on the adoption of residential solar photovoltaics in a changing climate]()</b> [[SSRN]()] <br/>
+<b>[1] [Impact of power outages on the adoption of residential solar photovoltaics in a changing climate]()</b> [[arXiv](https://arxiv.org/abs/2512.05027)] <br/>
 *Jiashu Zhu, <u>Wenbin Zhou</u>, Laura Diaz Anadon, Shixiang Zhu* <br/>
 
 <b>[2] [When robustness meets conservativeness: Conformalized uncertainty calibration for balanced decision making](https://arxiv.org/abs/2510.07750)</b> [[arXiv](https://arxiv.org/abs/2510.07750)] <br/>
