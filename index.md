@@ -10,7 +10,7 @@ My works are motivated and applied to domains such as energy resources managemen
 Previously, I received my B.S. in Statistics at [University of Science and Technology of China](https://en.ustc.edu.cn/).
 
 ## Recent News
-- **[Dec 2025]** Presented poster at NeurIPS 2025 MLxOR Workshop, San Diego, CA.
+- **[Dec 2025]** Presented poster at NeurIPS 2025 [MLxOR Workshop](https://mlxor-workshop.github.io/), San Diego, CA.
 - **[Oct 2025]** Gave three talks at the INFORMS Annual Meeting 2025, Atlanta, GA.
 - **[Oct 2025]** Gave a talk at the [CEIC Advisory Committee Meeting](https://www.cmu.edu/ceic/).
 - **[Sept 2025]** Gave a [poster](../assets/files/credo-poster.pdf) presentation at the [Human-AI Complementary for Decision Making](https://www.cmu.edu/ai-sdm/research/human-ai-workshop/index.html) workshop by [NSF AI-SDM](https://www.cmu.edu/ai-sdm/index.html).
