@@ -30,7 +30,7 @@ Previously, I received my B.S. in Statistics at [University of Science and Techn
 
 <b>[4] [Sequential Change Point Detection via Denoising Score Matching](https://www.ideals.illinois.edu/items/137311)</b> [[arXiv](http://arxiv.org/abs/2501.12667)] [[code](https://github.com/wbzhou2001/Denoising-Score-Change-Point-Detection)] [[poster](../assets/files/ssa_poster.pdf)]<br/>
 *<u>Wenbin Zhou</u>, Liyan Xie, Zhigang Peng, Shixiang Zhu* <br/>
-[Short version](https://ieeexplore.ieee.org/document/11225027) accepted by the Allerton Conference on Communications, Computing and Control <br/>
+[Short version](https://ieeexplore.ieee.org/document/11225027) accepted by the Allerton Conference on Communications, Control and Computing <br/>
 
 <b>[5] [Hierarchical Probabilstic Conformal Prediction for Distributed Energy Adoption](https://arxiv.org/abs/2411.12193)</b> [[arXiv]()] [[news](https://www.heinz.cmu.edu/media/2025/September/new-model-forecasts-renewable-growth-for-distributed-energy-resources)]<br/>
 *<u>Wenbin Zhou</u> and Shixiang Zhu* <br/>
