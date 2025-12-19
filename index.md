@@ -22,7 +22,7 @@ Previously, I received my B.S. in Statistics at [University of Science and Techn
 <b>[1] [Impact of power outages on the adoption of residential solar photovoltaics in a changing climate]()</b> [[arXiv](https://arxiv.org/abs/2512.05027)] <br/>
 *Jiashu Zhu, <u>Wenbin Zhou</u>, Laura Diaz Anadon, Shixiang Zhu* <br/>
 
-<b>[2] [When robustness meets conservativeness: Conformalized uncertainty calibration for balanced decision making](https://arxiv.org/abs/2510.07750)</b> [[arXiv](https://arxiv.org/abs/2510.07750)] <br/>
+<b>[2] [When robustness meets conservativeness: conformalized uncertainty calibration for balanced decision making](https://arxiv.org/abs/2510.07750)</b> [[arXiv](https://arxiv.org/abs/2510.07750)] <br/>
 *<u>Wenbin Zhou</u> and Shixiang Zhu* <br/>
 
 <b>[3] [Conformalized decision risk assessment](https://arxiv.org/abs/2505.13243)</b> [[arXiv](https://arxiv.org/abs/2505.13243)] [[poster](../assets/files/credo-poster.pdf)] [[video](https://youtu.be/n65D4EAKlgU)] <br/>
