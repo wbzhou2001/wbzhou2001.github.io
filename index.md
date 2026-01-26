@@ -27,11 +27,11 @@ Previously, I received my B.S. in Statistics at [University of Science and Techn
 
 <b>[3] [Conformalized decision risk assessment](https://arxiv.org/abs/2505.13243)</b> [[arXiv](https://arxiv.org/abs/2505.13243)] [[poster](../assets/files/credo-poster.pdf)] [[video](https://youtu.be/n65D4EAKlgU)] <br/>
 *<u>Wenbin Zhou</u>, Agni Orfanoudaki, Shixiang Zhu* <br/>
-Short version accepted by **International Conference on Learning Representations (ICLR), 2026** <br/>
+**International Conference on Learning Representations (ICLR), 2026** (short version) <br/>
 
 <b>[4] [Sequential change point detection via denoising score matching](https://www.ideals.illinois.edu/items/137311)</b> [[arXiv](http://arxiv.org/abs/2501.12667)] [[code](https://github.com/wbzhou2001/Denoising-Score-Change-Point-Detection)] [[poster](../assets/files/ssa_poster.pdf)]<br/>
 *<u>Wenbin Zhou</u>, Liyan Xie, Zhigang Peng, Shixiang Zhu* <br/>
-[Short version](https://ieeexplore.ieee.org/document/11225027) accepted by the Allerton Conference on Communications, Control and Computing <br/>
+**Allerton Conference on Communications, Control and Computing** ([short version](https://ieeexplore.ieee.org/document/11225027)) <br/>
 
 <b>[5] [Hierarchical probabilstic conformal prediction for distributed energy adoption](https://arxiv.org/abs/2411.12193)</b> [[arXiv]()] [[news](https://www.heinz.cmu.edu/media/2025/September/new-model-forecasts-renewable-growth-for-distributed-energy-resources)]<br/>
 *<u>Wenbin Zhou</u> and Shixiang Zhu* <br/>
