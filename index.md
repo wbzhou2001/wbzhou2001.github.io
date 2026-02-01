@@ -17,7 +17,7 @@ Previously, I received my B.S. in Statistics at [University of Science and Techn
 - **[Aug 2025]** Won first place in [poster](../assets/files/credo-poster.pdf) competition at [YinzOR 2025](https://yinzor.cmuinforms.org/2025/), Pittsburgh PA.
 - **[May 2025]** Gave a talk at the PSU-CMU energy workshop, Station College, PA.
 
-## Publications
+## Papers
 
 <b>[1] [Impact of power outages on the adoption of residential solar photovoltaics in a changing climate]()</b> [[arXiv](https://arxiv.org/abs/2512.05027)] <br/>
 *Jiashu Zhu, <u>Wenbin Zhou</u>, Laura Diaz Anadon, Shixiang Zhu* <br/>
