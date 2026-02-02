@@ -38,7 +38,7 @@ Previously, I received my B.S. in Statistics at [University of Science and Techn
 🏆 **Best paper award**, IEEE Power & Energy Society (awarded to [short version](https://ieeexplore.ieee.org/document/11225027)) <br/>
 🏆 **Second place**, INFORMS Data Mining Best Applied Paper, 2025 <br/>
 🏆 **Finalist**, INFORMS Innovative Applications in Analytic Award, 2025 <br/>
-📈 Featured in AES Indiana's 2025 Integrated Resource Plan (IRP) [[IRP](https://www.aesindiana.com/integrated-resource-plan)] [[EV](https://wbzhou2001.github.io/EVPV-Dashboard/ev_dashboard.html)] [[PV](https://wbzhou2001.github.io/EVPV-Dashboard/pv_dashboard.html)] [[slides](../assets/files/evpv_slides.pdf)]
+Featured in AES Indiana's 2025 Integrated Resource Plan (IRP) [[IRP](https://www.aesindiana.com/integrated-resource-plan)] [[EV](https://wbzhou2001.github.io/EVPV-Dashboard/ev_dashboard.html)] [[PV](https://wbzhou2001.github.io/EVPV-Dashboard/pv_dashboard.html)] [[slides](../assets/files/evpv_slides.pdf)]
 
 <b>[6] [Recurrent neural goodness-of-fit test for time series](https://arxiv.org/abs/2410.13986)</b> [[arXiv](https://arxiv.org/abs/2410.13986)] [[poster](https://drive.google.com/file/d/1u5awWigjt2fy74H6yuGstfhT37WWM9xS/view)] [[code](https://github.com/aoranzhangmia/Neural-GoF-Time)]<br/>
 *Aoran Zhang, <u>Wenbin Zhou</u>, Liyan Xie, Shixiang Zhu* <br/>
