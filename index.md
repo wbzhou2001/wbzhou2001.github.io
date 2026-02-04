@@ -10,12 +10,7 @@ My works are motivated and applied to domains such as energy resources managemen
 Previously, I received my B.S. in Statistics at [University of Science and Technology of China](https://en.ustc.edu.cn/).
 
 ## Recent News
-- **[Dec 2025]** Presented poster at NeurIPS 2025 [MLxOR Workshop](https://mlxor-workshop.github.io/), San Diego, CA.
-- **[Oct 2025]** Gave three talks at the INFORMS Annual Meeting 2025, Atlanta, GA.
-- **[Oct 2025]** Gave a talk at the [CEIC Advisory Committee Meeting](https://www.cmu.edu/ceic/).
-- **[Sept 2025]** Gave a [poster](../assets/files/credo-poster.pdf) presentation at the [Human-AI Complementary for Decision Making](https://www.cmu.edu/ai-sdm/research/human-ai-workshop/index.html) workshop by [NSF AI-SDM](https://www.cmu.edu/ai-sdm/index.html).
-- **[Aug 2025]** Won first place in [poster](../assets/files/credo-poster.pdf) competition at [YinzOR 2025](https://yinzor.cmuinforms.org/2025/), Pittsburgh PA.
-- **[May 2025]** Gave a talk at the PSU-CMU energy workshop, Station College, PA.
+- **[Feb 2026]** Gave an invited talk ([paper](https://arxiv.org/abs/2505.13243)) at Caltech's RSRG/FALCON Weekly Seminar, Pasadena, CA.
 
 ## Papers
 
@@ -55,6 +50,12 @@ Featured in AES Indiana's 2025 Integrated Resource Plan (IRP) [[IRP](https://www
 🏆 **Spotlight**, [Deep Generative Models for Health Workshop](https://neurips.cc/virtual/2023/workshop/66495) at NeurIPS 2023.
 
 ## Past News
+- **[Dec 2025]** Presented poster at NeurIPS 2025 [MLxOR Workshop](https://mlxor-workshop.github.io/), San Diego, CA.
+- **[Oct 2025]** Gave three talks at the INFORMS Annual Meeting 2025, Atlanta, GA.
+- **[Oct 2025]** Gave a talk at the [CEIC Advisory Committee Meeting](https://www.cmu.edu/ceic/).
+- **[Sept 2025]** Gave a [poster](../assets/files/credo-poster.pdf) presentation at the [Human-AI Complementary for Decision Making](https://www.cmu.edu/ai-sdm/research/human-ai-workshop/index.html) workshop by [NSF AI-SDM](https://www.cmu.edu/ai-sdm/index.html).
+- **[Aug 2025]** Won first place in [poster](../assets/files/credo-poster.pdf) competition at [YinzOR 2025](https://yinzor.cmuinforms.org/2025/), Pittsburgh PA.
+- **[May 2025]** Gave a talk at the PSU-CMU energy workshop, Station College, PA.
 - **[Apr 2025]** Gave a poster presentation at [SSA Annual Meeting 2025](https://meetings.seismosoc.org/), Baltimore, MD.
 - **[Oct 2024]** Gave a [talk](https://submissions.mirasmart.com/InformsAnnual2024/Itinerary/PresentationDetail.aspx?evdid=2036) and [poster](../assets/files/stcp-poster.pdf) presentation at [2024 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/seattle2024/), Seattle WA.
 - **[Aug 2024]** Gave an online talk on our accepted [paper](https://arxiv.org/abs/2408.00911) at BIOKDD 2024, Barcelona Spain.
