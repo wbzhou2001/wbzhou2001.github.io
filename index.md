@@ -10,7 +10,7 @@ My works are motivated and applied to domains such as energy resources managemen
 Previously, I received my B.S. in Statistics at [University of Science and Technology of China](https://en.ustc.edu.cn/).
 
 ## Recent News
-- **[Feb 2026]** Gave an invited talk ([paper](https://arxiv.org/abs/2505.13243)) at Caltech's RSRG/FALCON Weekly Seminar, Pasadena, CA.
+- **[Feb 2026]** Invited talk ([paper](https://arxiv.org/abs/2505.13243)) at Caltech's RSRG/FALCON Weekly Seminar, Pasadena, CA.
 
 ## Papers
 
