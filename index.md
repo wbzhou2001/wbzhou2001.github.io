@@ -14,7 +14,7 @@ Previously, I received my B.S. in Statistics at [University of Science and Techn
 
 ## Papers
 
-<b>[1] [Score-based change-point detection and region localization for spatio-temporal point processes]()</b> [[arXiv](https://arxiv.org/abs/2602.04798)] <br/>
+<b>[1] [Score-based change-point detection and region localization for spatio-temporal point processes]()</b> [[arXiv](https://arxiv.org/abs/2602.04798)] [[code](https://github.com/wbzhou2001/Spatio-Temporal-Change-Detection)]<br/>
 *<u>Wenbin Zhou</u>, Liyan Xie, Shixiang Zhu* <br/>
 
 <b>[2] [Impact of power outages on the adoption of residential solar photovoltaics in a changing climate]()</b> [[arXiv](https://arxiv.org/abs/2512.05027)] <br/>
