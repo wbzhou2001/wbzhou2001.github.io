@@ -16,6 +16,7 @@ Previously, I received my B.S. in Statistics at [University of Science and Techn
 
 <b>[1] [Score-based change-point detection and region localization for spatio-temporal point processes]()</b> [[arXiv](https://arxiv.org/abs/2602.04798)] [[code](https://github.com/wbzhou2001/Spatio-Temporal-Change-Detection)]<br/>
 *<u>Wenbin Zhou</u>, Liyan Xie, Shixiang Zhu* <br/>
+🏆 **Finalist**, IISE QCRE Best Track Paper Competition, 2026 <br/>
 
 <b>[2] [Impact of power outages on the adoption of residential solar photovoltaics in a changing climate]()</b> [[arXiv](https://arxiv.org/abs/2512.05027)] <br/>
 *Jiashu Zhu, <u>Wenbin Zhou</u>, Laura Diaz Anadon, Shixiang Zhu* <br/>
@@ -35,7 +36,7 @@ Previously, I received my B.S. in Statistics at [University of Science and Techn
 *<u>Wenbin Zhou</u> and Shixiang Zhu* <br/>
 🏆 **Best paper award**, IEEE Power & Energy Society (awarded to [short version](https://ieeexplore.ieee.org/document/11225027)) <br/>
 🏆 **Second place**, INFORMS Data Mining Best Applied Paper, 2025 <br/>
-🏆 **Finalist**, INFORMS Innovative Applications in Analytic Award, 2025 <br/>
+🏆 **Finalist**, INFORMS Innovative Applications in Analytic Award, 2026 <br/>
 Featured in AES Indiana's 2025 Integrated Resource Plan (IRP) [[IRP](https://www.aesindiana.com/integrated-resource-plan)] [[EV](https://wbzhou2001.github.io/EVPV-Dashboard/ev_dashboard.html)] [[PV](https://wbzhou2001.github.io/EVPV-Dashboard/pv_dashboard.html)] [[slides](../assets/files/evpv_slides.pdf)]
 
 <b>[7] [Recurrent neural goodness-of-fit test for time series](https://arxiv.org/abs/2410.13986)</b> [[arXiv](https://arxiv.org/abs/2410.13986)] [[poster](https://drive.google.com/file/d/1u5awWigjt2fy74H6yuGstfhT37WWM9xS/view)] [[code](https://github.com/aoranzhangmia/Neural-GoF-Time)]<br/>
