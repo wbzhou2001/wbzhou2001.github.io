@@ -10,7 +10,7 @@ My works are motivated and applied to domains such as energy resources managemen
 Previously, I received my B.S. in Statistics at [University of Science and Technology of China](https://en.ustc.edu.cn/).
 
 ## Recent News
-- **[Apr 2026]** Presented at the INFORMS Analytics+ Conference 2026, Baltimore, MD.
+- **[Apr 2026]** Presented at the INFORMS Analytics+ Conference 2026, National Harbor, MD.
 - **[Feb 2026]** Invited talk ([paper](https://arxiv.org/abs/2505.13243)) at Caltech's RSRG/FALCON Weekly Seminar, Pasadena, CA.
 
 ## Papers
