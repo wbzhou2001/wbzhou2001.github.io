@@ -25,6 +25,7 @@ Previously, I received my B.S. in Statistics at [University of Science and Techn
 
 <b>[3] [Calibrating decision robustness via inverse conformal risk control](https://arxiv.org/abs/2510.07750)</b> [[arXiv](https://arxiv.org/abs/2510.07750)] <br/>
 *<u>Wenbin Zhou</u> and Shixiang Zhu* <br/>
+**International Conference on Machine Learning (ICML), 2026**<br/>
 
 <b>[4] [Conformalized decision risk assessment](https://arxiv.org/abs/2505.13243)</b> [[arXiv](https://arxiv.org/abs/2505.13243)] [[poster](../assets/files/credo-poster.pdf)] [[video](https://youtu.be/n65D4EAKlgU)] <br/>
 *<u>Wenbin Zhou</u>, Agni Orfanoudaki, Shixiang Zhu* <br/>
