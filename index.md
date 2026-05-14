@@ -19,7 +19,7 @@ Previously, I received my B.S. in Statistics at [University of Science and Techn
 <b>[1] [Learning polyhedral conformal sets for robust optimization]()</b> [[arXiv](https://arxiv.org/pdf/2605.08506)] <br/>
 *Shuyi Chen\*, <u>Wenbin Zhou</u>\*, Shixiang Zhu* <br/>
 
-<b>[2] [Score-based change-point detection and region localization for spatio-temporal point processes]()</b> [[arXiv](https://arxiv.org/abs/2602.04798)] [[code](https://github.com/wbzhou2001/Spatio-Temporal-Change-Detection)]<br/>
+<b>[2] [Score-based change-point detection and region localization for spatio-temporal point processes]()</b> [[arXiv](https://arxiv.org/abs/2602.04798)] [[poster](../assets/files/Score_Poster.pdf)] [[code](https://github.com/wbzhou2001/Spatio-Temporal-Change-Detection)]<br/>
 *<u>Wenbin Zhou</u>, Liyan Xie, Shixiang Zhu* <br/>
 🏆 **Finalist**, IISE QCRE Best Track Paper Competition, 2026 <br/>
 
