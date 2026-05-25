@@ -15,7 +15,7 @@ Previously, I received my B.S. in Statistics at [University of Science and Techn
 - **[Mar 2026]** My research has been featured in CMU press articles. [[CMU]](https://www.cmu.edu/news/stories/archives/2026/march/cmu-researchers-help-reduce-energy-grid-uncertainty) [[Heinz]](https://www.linkedin.com/posts/carnegie-mellon-university---h%2E-john-heinz-iii-college_research-from-shixiang-zhu-of-carnegie-mellon-ugcPost-7445500399559602177-6gy8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJM71gBZuLhMZjpHoXCuJV5ECF5-OREI5s) [[Mellon]](https://www.linkedin.com/posts/carnegie-mellon-university-mellon-college-of-science_as-cities-add-more-renewable-energy-power-activity-7446938052788215811-RF-y?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJM71gBZuLhMZjpHoXCuJV5ECF5-OREI5s)  
 - **[Feb 2026]** Invited talk [[arXiv](https://arxiv.org/abs/2505.13243)] at Caltech's RSRG/FALCON Weekly Seminar, Pasadena, CA.
 
-## Papers
+## Research
 
 <b>[1] [Learning polyhedral conformal sets for robust optimization]()</b> [[arXiv](https://arxiv.org/pdf/2605.08506)] <br/>
 *Shuyi Chen\*, <u>Wenbin Zhou</u>\*, Shixiang Zhu* <br/>
