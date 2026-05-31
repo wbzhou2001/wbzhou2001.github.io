@@ -27,7 +27,7 @@ Previously, I received my B.S. in Statistics at [University of Science and Techn
 <b>[3] [Impact of power outages on the adoption of residential solar photovoltaics in a changing climate]()</b> [[arXiv](https://arxiv.org/abs/2512.05027)] <br/>
 *Jiashu Zhu, <u>Wenbin Zhou</u>, Laura Diaz Anadon, Shixiang Zhu* <br/>
 
-<b>[4] [Calibrating decision robustness via inverse conformal risk control](https://arxiv.org/abs/2510.07750)</b> [[arXiv](https://arxiv.org/abs/2510.07750)] [[slides](../assets/files/icrc_slides.pdf)] [[5min talk](https://recorder-v3.slideslive.com/?share=110217&s=3c3f6817-0367-4afd-8d41-c26d3be534be)] <br/>
+<b>[4] [Calibrating decision robustness via inverse conformal risk control](https://arxiv.org/abs/2510.07750)</b> [[arXiv](https://arxiv.org/abs/2510.07750)] [[slides](../assets/files/icrc_slides.pdf)] [[5min talk](https://recorder-v3.slideslive.com/?share=110217&s=3c3f6817-0367-4afd-8d41-c26d3be534be)] [[code](https://github.com/wbzhou2001/Inverse-Conformal-Risk-Control)] <br/>
 *<u>Wenbin Zhou</u> and Shixiang Zhu* <br/>
 **International Conference on Machine Learning (ICML), 2026**<br/>
 
