@@ -31,7 +31,7 @@ Previously, I received my B.S. in Statistics at [University of Science and Techn
 *<u>Wenbin Zhou</u> and Shixiang Zhu* <br/>
 **International Conference on Machine Learning (ICML), 2026**<br/>
 
-<b>[5] [Conformalized decision risk assessment](https://arxiv.org/abs/2505.13243)</b> [[arXiv](https://arxiv.org/abs/2505.13243)] [[poster](../assets/files/credo-poster.pdf)] [[video](https://youtu.be/n65D4EAKlgU)] <br/>
+<b>[5] [Conformalized decision risk assessment](https://arxiv.org/abs/2505.13243)</b> [[demo](https://yidaxu04.github.io/credo-website/)] [[arXiv](https://arxiv.org/abs/2505.13243)] [[poster](../assets/files/credo-poster.pdf)] [[video](https://youtu.be/n65D4EAKlgU)] <br/>
 *<u>Wenbin Zhou</u>, Agni Orfanoudaki, Shixiang Zhu* <br/>
 **International Conference on Learning Representations (ICLR), 2026** ([short version](https://iclr.cc/virtual/2026/poster/10006644)) <br/>
 
