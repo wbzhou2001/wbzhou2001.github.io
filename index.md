@@ -27,11 +27,11 @@ Previously, I received my B.S. in Statistics at [University of Science and Techn
 <b>[3] [Impact of power outages on the adoption of residential solar photovoltaics in a changing climate]()</b> [[arXiv](https://arxiv.org/abs/2512.05027)] <br/>
 *Jiashu Zhu, <u>Wenbin Zhou</u>, Laura Diaz Anadon, Shixiang Zhu* <br/>
 
-<b>[4] [Calibrating decision robustness via inverse conformal risk control](https://arxiv.org/abs/2510.07750)</b> [[arXiv](https://arxiv.org/abs/2510.07750)] [[slides](../assets/files/icrc_slides.pdf)] [[video](https://recorder-v3.slideslive.com/?share=110217&s=3c3f6817-0367-4afd-8d41-c26d3be534be)] [[code](https://github.com/wbzhou2001/Inverse-Conformal-Risk-Control)] <br/>
+<b>[4] [Calibrating decision robustness via inverse conformal risk control](https://arxiv.org/abs/2510.07750)</b> [[arXiv](https://arxiv.org/abs/2510.07750)] [[slides](../assets/files/icrc_slides.pdf)] [[video](https://recorder-v3.slideslive.com/?share=110217&s=3c3f6817-0367-4afd-8d41-c26d3be534be)] [[code](https://github.com/wbzhou2001/Inverse-Conformal-Risk-Control)] [[poster](../assets/icrc_poster.pdf)] <br/>
 *<u>Wenbin Zhou</u> and Shixiang Zhu* <br/>
 **International Conference on Machine Learning (ICML), 2026**<br/>
 
-<b>[5] [Conformalized decision risk assessment](https://arxiv.org/abs/2505.13243)</b> [[demo](https://yidaxu04.github.io/credo-website/)] [[arXiv](https://arxiv.org/abs/2505.13243)] [[poster](../assets/files/credo-poster.pdf)] [[video](https://youtu.be/n65D4EAKlgU)] <br/>
+<b>[5] [Conformalized decision risk assessment](https://arxiv.org/abs/2505.13243)</b> [[demo](https://yidaxu04.github.io/credo-website/)] [[arXiv](https://arxiv.org/abs/2505.13243)] [[poster](../assets/files/credo-poster.pdf)] [[video](https://youtu.be/n65D4EAKlgU)] [[slides](../assets/files/CREDO_Slides.pdf)] <br/>
 *<u>Wenbin Zhou</u>, Agni Orfanoudaki, Shixiang Zhu* <br/>
 **International Conference on Learning Representations (ICLR), 2026** ([short version](https://iclr.cc/virtual/2026/poster/10006644)) <br/>
 
