@@ -42,7 +42,7 @@ Previously, I received my B.S. in Statistics at [University of Science and Techn
 
 <b>[7] [Hierarchical probabilstic conformal prediction for distributed energy adoption](http://dx.doi.org/10.1214/26-AOAS2199)</b> [[arXiv](https://arxiv.org/abs/2411.12193)] [[news](https://www.heinz.cmu.edu/media/2025/September/new-model-forecasts-renewable-growth-for-distributed-energy-resources)]<br/>
 *<u>Wenbin Zhou</u> and Shixiang Zhu* <br/>
-**The Annals of Applied Statistics, 2026, Vol. 20, No. 2, 1626-1645** <br/>
+**The Annals of Applied Statistics 2026, Vol. 20, No. 2, 1626-1645** <br/>
 🏆 **Best paper award**, IEEE Power & Energy Society (awarded to [short version](https://ieeexplore.ieee.org/document/11225027)) <br/>
 🏆 **Runners up**, INFORMS Data Mining Best Applied Paper, 2025 <br/>
 🏆 **Second place**, INFORMS Innovative Applications in Analytic Award, 2026 <br/>
