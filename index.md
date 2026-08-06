@@ -20,7 +20,7 @@ Previously, I received my B.S. in Statistics at [University of Science and Techn
 ## Publications
 
 <b>[1] [Beyond predicting responses: Conformal inference for latent distributional parameters]()</b> [[arXiv](https://arxiv.org/abs/2608.03607)] <br/>
-Minxing Zheng, <u>Wenbin Zhou</u>, Shixiang Zhu* <br/>
+*Minxing Zheng, <u>Wenbin Zhou</u>, Shixiang Zhu* <br/>
 
 <b>[2] [Learning polyhedral conformal sets for robust optimization]()</b> [[arXiv](https://arxiv.org/pdf/2605.08506)] <br/>
 *Shuyi Chen\*, <u>Wenbin Zhou</u>\*, Shixiang Zhu* <br/>
