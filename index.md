@@ -10,7 +10,8 @@ Some of my work is motivated and applied to domains such as energy analytics and
 Previously, I received my B.S. in Statistics at [University of Science and Technology of China](https://en.ustc.edu.cn/).
 
 ## Recent News
-- **[June 2026]** 📢 We are organizing [[YinzOR 2026](https://yinzor.cmuinforms.org/index.html)] and accepting [[posters](https://yinzor.cmuinforms.org/poster_competition/index.html)] and [[flash talks](https://yinzor.cmuinforms.org/flash_talks/index.html)] submissions broadly related to operations research <span style='color;'>(Deadline: July 20)</span>.
+- **[Aug 2026]** Gave a talk at the International Conference of Bilevel Optimization, Pittsburgh, PA.
+- **[Jun 2026]** Served as a co-chair for [[YinzOR 2026](https://yinzor.cmuinforms.org/index.html)].
 - **[May 2026]** Gave a talk [[arXiv](https://arxiv.org/abs/2602.04798)] at the IISE Annual Conference, Arlington, TX.
 - **[Apr 2026]** Gave a talk at the INFORMS Analytics+ Conference 2026, National Harbor, MD.
 - **[Mar 2026]** My research has been featured in CMU press articles. [[CMU]](https://www.cmu.edu/news/stories/archives/2026/march/cmu-researchers-help-reduce-energy-grid-uncertainty) [[Heinz]](https://www.linkedin.com/posts/carnegie-mellon-university---h%2E-john-heinz-iii-college_research-from-shixiang-zhu-of-carnegie-mellon-ugcPost-7445500399559602177-6gy8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJM71gBZuLhMZjpHoXCuJV5ECF5-OREI5s) [[Mellon]](https://www.linkedin.com/posts/carnegie-mellon-university-mellon-college-of-science_as-cities-add-more-renewable-energy-power-activity-7446938052788215811-RF-y?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJM71gBZuLhMZjpHoXCuJV5ECF5-OREI5s)  
