@@ -18,29 +18,32 @@ Previously, I received my B.S. in Statistics at [University of Science and Techn
 
 ## Publications
 
-<b>[1] [Learning polyhedral conformal sets for robust optimization]()</b> [[arXiv](https://arxiv.org/pdf/2605.08506)] <br/>
+<b>[1] [Beyond predicting responses: Conformal inference for latent distributional parameters]()</b> [[arXiv](https://arxiv.org/abs/2608.03607)] <br/>
+Minxing Zheng, <u>Wenbin Zhou</u>, Shixiang Zhu* <br/>
+
+<b>[2] [Learning polyhedral conformal sets for robust optimization]()</b> [[arXiv](https://arxiv.org/pdf/2605.08506)] <br/>
 *Shuyi Chen\*, <u>Wenbin Zhou</u>\*, Shixiang Zhu* <br/>
 
-<b>[2] [Score-based change-point detection and region localization for spatio-temporal point processes]()</b> [[arXiv](https://arxiv.org/abs/2602.04798)] [[poster](../assets/files/Score_Poster.pdf)] [[code](https://github.com/wbzhou2001/Spatio-Temporal-Change-Detection)]<br/>
+<b>[3] [Score-based change-point detection and region localization for spatio-temporal point processes]()</b> [[arXiv](https://arxiv.org/abs/2602.04798)] [[poster](../assets/files/Score_Poster.pdf)] [[code](https://github.com/wbzhou2001/Spatio-Temporal-Change-Detection)]<br/>
 *<u>Wenbin Zhou</u>, Liyan Xie, Shixiang Zhu* <br/>
 🏆 **Winner**, IISE QCRE Best Track Paper Competition, 2026 <br/>
 
-<b>[3] [Impact of power outages on the adoption of residential solar photovoltaics in a changing climate]()</b> [[arXiv](https://arxiv.org/abs/2512.05027)] <br/>
+<b>[4] [Impact of power outages on the adoption of residential solar photovoltaics in a changing climate]()</b> [[arXiv](https://arxiv.org/abs/2512.05027)] <br/>
 *Jiashu Zhu, <u>Wenbin Zhou</u>, Laura Diaz Anadon, Shixiang Zhu* <br/>
 
-<b>[4] [Calibrating decision robustness via inverse conformal risk control](https://arxiv.org/abs/2510.07750)</b> [[arXiv](https://arxiv.org/abs/2510.07750)] [[slides](../assets/files/icrc_slides.pdf)] [[video](https://recorder-v3.slideslive.com/?share=110217&s=3c3f6817-0367-4afd-8d41-c26d3be534be)] [[code](https://github.com/wbzhou2001/Inverse-Conformal-Risk-Control)] [[poster](../assets/icrc_poster.pdf)] <br/>
+<b>[5] [Calibrating decision robustness via inverse conformal risk control](https://arxiv.org/abs/2510.07750)</b> [[arXiv](https://arxiv.org/abs/2510.07750)] [[slides](../assets/files/icrc_slides.pdf)] [[video](https://recorder-v3.slideslive.com/?share=110217&s=3c3f6817-0367-4afd-8d41-c26d3be534be)] [[code](https://github.com/wbzhou2001/Inverse-Conformal-Risk-Control)] [[poster](../assets/icrc_poster.pdf)] <br/>
 *<u>Wenbin Zhou</u> and Shixiang Zhu* <br/>
 **International Conference on Machine Learning (ICML), 2026**<br/>
 
-<b>[5] [Conformalized decision risk assessment](https://arxiv.org/abs/2505.13243)</b> [[demo](https://yidaxu04.github.io/credo-website/)] [[arXiv](https://arxiv.org/abs/2505.13243)] [[poster](../assets/files/credo-poster.pdf)] [[video](https://youtu.be/n65D4EAKlgU)] [[slides](../assets/files/CREDO_Slides.pdf)] <br/>
+<b>[6] [Conformalized decision risk assessment](https://arxiv.org/abs/2505.13243)</b> [[demo](https://yidaxu04.github.io/credo-website/)] [[arXiv](https://arxiv.org/abs/2505.13243)] [[poster](../assets/files/credo-poster.pdf)] [[video](https://youtu.be/n65D4EAKlgU)] [[slides](../assets/files/CREDO_Slides.pdf)] <br/>
 *<u>Wenbin Zhou</u>, Agni Orfanoudaki, Shixiang Zhu* <br/>
 **International Conference on Learning Representations (ICLR), 2026** ([short version](https://iclr.cc/virtual/2026/poster/10006644)) <br/>
 
-<b>[6] [Sequential change point detection via denoising score matching](https://ieeexplore.ieee.org/document/11225027)</b> [[arXiv](http://arxiv.org/abs/2501.12667)] [[code](https://github.com/wbzhou2001/Denoising-Score-Change-Point-Detection)] [[poster](../assets/files/ssa_poster.pdf)]<br/>
+<b>[7] [Sequential change point detection via denoising score matching](https://ieeexplore.ieee.org/document/11225027)</b> [[arXiv](http://arxiv.org/abs/2501.12667)] [[code](https://github.com/wbzhou2001/Denoising-Score-Change-Point-Detection)] [[poster](../assets/files/ssa_poster.pdf)]<br/>
 *<u>Wenbin Zhou</u>, Liyan Xie, Zhigang Peng, Shixiang Zhu* <br/>
 **Allerton Conference on Communications, Control and Computing** <br/>
 
-<b>[7] [Hierarchical probabilstic conformal prediction for distributed energy adoption](http://dx.doi.org/10.1214/26-AOAS2199)</b> [[arXiv](https://arxiv.org/abs/2411.12193)] [[news](https://www.heinz.cmu.edu/media/2025/September/new-model-forecasts-renewable-growth-for-distributed-energy-resources)]<br/>
+<b>[8] [Hierarchical probabilstic conformal prediction for distributed energy adoption](http://dx.doi.org/10.1214/26-AOAS2199)</b> [[arXiv](https://arxiv.org/abs/2411.12193)] [[news](https://www.heinz.cmu.edu/media/2025/September/new-model-forecasts-renewable-growth-for-distributed-energy-resources)]<br/>
 *<u>Wenbin Zhou</u> and Shixiang Zhu* <br/>
 **The Annals of Applied Statistics 2026, Vol. 20, No. 2, 1626-1645** <br/>
 🏆 **Best paper award**, IEEE Power & Energy Society (awarded to [short version](https://ieeexplore.ieee.org/document/11225027)) <br/>
@@ -48,15 +51,15 @@ Previously, I received my B.S. in Statistics at [University of Science and Techn
 🏆 **Second place**, INFORMS Innovative Applications in Analytic Award, 2026 <br/>
 🏛️ Featured in AES Indiana's 2025 Integrated Resource Plan (IRP) [[IRP](https://www.aesindiana.com/integrated-resource-plan)] [[EV](https://wbzhou2001.github.io/EVPV-Dashboard/ev_dashboard.html)] [[PV](https://wbzhou2001.github.io/EVPV-Dashboard/pv_dashboard.html)] [[slides](../assets/files/evpv_slides.pdf)]
 
-<b>[8] [Recurrent neural goodness-of-fit test for time series](https://arxiv.org/abs/2410.13986)</b> [[arXiv](https://arxiv.org/abs/2410.13986)] [[poster](https://drive.google.com/file/d/1u5awWigjt2fy74H6yuGstfhT37WWM9xS/view)] [[code](https://github.com/aoranzhangmia/Neural-GoF-Time)]<br/>
+<b>[9] [Recurrent neural goodness-of-fit test for time series](https://arxiv.org/abs/2410.13986)</b> [[arXiv](https://arxiv.org/abs/2410.13986)] [[poster](https://drive.google.com/file/d/1u5awWigjt2fy74H6yuGstfhT37WWM9xS/view)] [[code](https://github.com/aoranzhangmia/Neural-GoF-Time)]<br/>
 *Aoran Zhang, <u>Wenbin Zhou</u>, Liyan Xie, Shixiang Zhu* <br/>
 **International Conference on Artificial Intelligence and Statistics (AISTATS), 2025** <br/>
 
-<b>[9] [Distance-preserving spatial representations in genomic data](https://ieeexplore.ieee.org/document/11224845)</b> [[arXiv](https://arxiv.org/abs/2408.00911)] [[slides](../assets/files/biokdd2024-slides.pdf)] [[video](https://youtu.be/zaxljiLN5Sc)]<br/>
+<b>[10] [Distance-preserving spatial representations in genomic data](https://ieeexplore.ieee.org/document/11224845)</b> [[arXiv](https://arxiv.org/abs/2408.00911)] [[slides](../assets/files/biokdd2024-slides.pdf)] [[video](https://youtu.be/zaxljiLN5Sc)]<br/>
 *<u>Wenbin Zhou</u> and Jin-Hong Du* <br/>
 **IEEE Transactions on Computational Biology and Bioinformatics (Volume: 23, Issue: 3, May-June 2026)** <br/>
 
-<b>[10] [Counterfactual generative models for time-varying treatments](https://dl.acm.org/doi/10.1145/3637528.3671950)</b> 
+<b>[11] [Counterfactual generative models for time-varying treatments](https://dl.acm.org/doi/10.1145/3637528.3671950)</b> 
 [[arXiv](https://arxiv.org/abs/2305.15742)] [[poster](../assets/files/kdd2024-poster.pdf)] [[code](https://github.com/ShenghaoWu/Counterfactual-Generative-Models)] [[media](https://www.heinz.cmu.edu/media/2023/October/new-models-improve-policy-impact-and-public-service-efficiency)] <br/>
 *Shenghao Wu, <u>Wenbin Zhou</u>, Minshuo Chen, Shixiang Zhu* <br/>
 **ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2024** <br/>
