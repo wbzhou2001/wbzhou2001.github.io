@@ -10,6 +10,7 @@ Some of my work is motivated and applied to domains such as energy analytics and
 Previously, I received my B.S. in Statistics at [University of Science and Technology of China](https://en.ustc.edu.cn/).
 
 ## Recent News
+- **[Aug 2026]** Attended The FutureBAProf Workshop at Tippie College of Business, University of Iowa.
 - **[Aug 2026]** Gave a talk at the International Conference of Bilevel Optimization (ICBO), Pittsburgh, PA.
 - **[Jun 2026]** Served as a co-chair for [[YinzOR 2026](https://yinzor.cmuinforms.org/index.html)].
 - **[May 2026]** Gave a talk [[arXiv](https://arxiv.org/abs/2602.04798)] at the IISE Annual Conference, Arlington, TX.
