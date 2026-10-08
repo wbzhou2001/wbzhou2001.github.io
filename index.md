@@ -23,6 +23,9 @@ Previously, I received my B.S. in Statistics at [University of Science and Techn
 <b>[Safe Meta-Policy Design with Risk Control]()</b> [[arXiv]()] <br/>
 *<u>Wenbin Zhou</u>, Michael Lingzhi Li, Shixiang Zhu* <br/>
 
+<b>[Calibrating Ambiguity Set via Diagnostic Transport for Distributionally Robust Optimization]()</b> [[arXiv]()] <br/>
+*<u>Wenbin Zhou</u>, Elizabeth Cucuzzella, Shixiang Zhu* <br/>
+
 <b>[Beyond predicting responses: Conformal inference for latent distributional parameters]()</b> [[arXiv](https://arxiv.org/abs/2608.03607)] <br/>
 *Minxing Zheng, <u>Wenbin Zhou</u>, Shixiang Zhu* <br/>
 
