@@ -20,10 +20,10 @@ Previously, I received my B.S. in Statistics at [University of Science and Techn
 
 ## Papers
 
-<b>[Safe Meta-Policy Design with Risk Control]()</b> [[arXiv](https://arxiv.org/abs/2610.10393)] <br/>
+<b>[Safe meta-policy design with risk control]()</b> [[arXiv](https://arxiv.org/abs/2610.10393)] <br/>
 *<u>Wenbin Zhou</u>, Michael Lingzhi Li, Shixiang Zhu* <br/>
 
-<b>[Calibrating Ambiguity Set via Diagnostic Transport for Distributionally Robust Optimization]()</b> [[arXiv](http://arxiv.org/abs/2610.10793)] <br/>
+<b>[Calibrating ambiguity set via diagnostic transport for distributionally robust optimization]()</b> [[arXiv](http://arxiv.org/abs/2610.10793)] <br/>
 *<u>Wenbin Zhou</u>, Elizabeth Cucuzzella, Shixiang Zhu* <br/>
 
 <b>[Beyond predicting responses: Conformal inference for latent distributional parameters]()</b> [[arXiv](https://arxiv.org/abs/2608.03607)] <br/>
