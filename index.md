@@ -4,12 +4,10 @@ layout: homepage
 
 ## Welcome!
 
-I am a Ph.D. candidate in Machine Learning and Public Policy at [Carnegie Mellon University](https://www.cmu.edu/), advised by [Woody Zhu](https://www.andrew.cmu.edu/user/shixianz/index.html). My research lies in the intersection of **machine learning, statistics, and operations research**. 
-I am interested in studying algorithms for data-driven decision-making in settings where statistical uncertainties, spatio-temporal systems, and humans are involved.
-Some of my work is motivated and applied to domains such as energy analytics and natural disaster management.
-Previously, I received my B.S. in Statistics at [University of Science and Technology of China](https://en.ustc.edu.cn/).
+I am a Ph.D. candidate in Machine Learning and Public Policy at [Carnegie Mellon University](https://www.cmu.edu/), advised by [Woody Zhu](https://www.andrew.cmu.edu/user/shixianz/index.html). My research combines analytics and optimization to develop data-driven driven decision making algorithms and theories where uncertainties are involved. Much of my work is motivated and/or applied to real-world domains such as energy systems operations and natural disaster prediction. Previously, I received my B.S. in Statistics at [University of Science and Technology of China](https://en.ustc.edu.cn/).
 
 ## Recent News
+- **[Oct 2026]** Attended The Young Research Workshop at Cornell ORIE.
 - **[Aug 2026]** Attended The FutureBAProf Workshop at Tippie College of Business, University of Iowa.
 - **[Aug 2026]** Gave a talk at the International Conference of Bilevel Optimization (ICBO), Pittsburgh, PA.
 - **[Jun 2026]** Served as a co-chair for [[YinzOR 2026](https://yinzor.cmuinforms.org/index.html)].
